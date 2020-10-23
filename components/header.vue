@@ -58,14 +58,21 @@
         </button>
         <div class="collapse navbar-collapse" id="ftco-nav">
           <ul class="navbar-nav m-auto">
-            <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-            <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+            <router-link to="/" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Inicio</a>
+              </li>
+            </router-link>
+            <router-link to="/about" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Acerca de</a>
+              </li>
+            </router-link>
             <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
             <li class="nav-item"><a href="doctors.html" class="nav-link">Doctors</a></li>
             <li class="nav-item"><a href="department.html" class="nav-link">Departments</a></li>
             <li class="nav-item"><a href="pricing.html" class="nav-link">Pricing</a></li>
             <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-            <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
             <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
           </ul>
         </div>
@@ -76,7 +83,15 @@
 
 <script>
 export default {
-  name: "Header"
+  name: "Header",
+  methods: ({
+    subIsActive(input) {
+      const paths = Array.isArray(input) ? input: [input];
+      return paths.some(path => {
+        return this.$route.path.indexOf(path) === 0
+      })
+    }
+  }),
 }
 </script>
 

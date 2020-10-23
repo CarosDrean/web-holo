@@ -17,7 +17,12 @@
 
 <script>
 export default {
-  name: "about"
+  name: "about",
+  head() {
+    return {
+      title: 'HoloSalud | Acerca de'
+    }
+  }
 }
 </script>
 
