@@ -5,27 +5,27 @@
         <div class="row">
           <div class="col-lg col-md-6">
             <div class="ftco-footer-widget">
-              <h2 class="ftco-heading-2 logo d-flex align-items-center"><a href="#"><span class="flaticon-health flaticon"></span><span>Medex</span></a></h2>
-              <p>Far far away, behind the word mountains, far from the countries.</p>
+              <h2 class="ftco-heading-2 logo d-flex align-items-center"><a href="#"><span class="flaticon-health flaticon"></span><span>Holosalud</span></a></h2>
+              <p>El primer centro médico de Salud Ocupacional en la región Ica.</p>
               <ul class="ftco-footer-social list-unstyled mt-4">
-                <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                <li><a href="#"><span class="fa fa-instagram"></span></a></li>
+                <li><a href=""><span class="fa fa-twitter"></span></a></li>
+                <li><a href="https://www.facebook.com/Holosalud"><span class="fa fa-facebook"></span></a></li>
+                <li><a href="https://instagram.com/holosaludsac?igshid=i4g41fixxj7b"><span class="fa fa-instagram"></span></a></li>
               </ul>
             </div>
           </div>
 
           <div class="col-lg col-md-6">
             <div class="ftco-footer-widget">
-              <h2 class="ftco-heading-2">Departments</h2>
+              <h2 class="ftco-heading-2">Departamentos</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Neurology</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Ophthalmology</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Nuclear Magnetic</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>X-Ray</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Surgical</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Cardiology</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Dental</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Salud Ocupacional</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Oftalmología</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Espirometría</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Rayos X</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Audiometría</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Psicología</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Laboratorio</a></li>
               </ul>
             </div>
           </div>
@@ -34,22 +34,22 @@
             <div class="ftco-footer-widget">
               <h2 class="ftco-heading-2">Links</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Home</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Departments</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Doctors</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Inicio</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Conocenos</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Servicios</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Doctores</a></li>
                 <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Blog</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Pricing</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Cotizaciones</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contáctenos</a></li>
               </ul>
             </div>
           </div>
 
           <div class="col-lg col-md-6">
             <div class="ftco-footer-widget">
-              <h2 class="ftco-heading-2">Services</h2>
+              <h2 class="ftco-heading-2">Servicios</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Emergency Help</a></li>
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Cardiología</a></li>
                 <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Qualified Doctors</a></li>
                 <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Location &amp; Directions</a></li>
                 <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Medical Treatment</a></li>
@@ -59,12 +59,12 @@
 
           <div class="col-lg col-md-6">
             <div class="ftco-footer-widget">
-              <h2 class="ftco-heading-2">Have a Questions?</h2>
+              <h2 class="ftco-heading-2">¿Dudas de nosotros?</h2>
               <div class="block-23 mb-3">
                 <ul>
-                  <li><span class="fa fa-map-marker mr-3"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-                  <li><a href="#"><span class="fa fa-phone mr-3"></span><span class="text">+2 392 3929 210</span></a></li>
-                  <li><a href="#"><span class="fa fa-paper-plane mr-3"></span><span class="text">info@yourdomain.com</span></a></li>
+                  <li><span class="fa fa-map-marker mr-3"></span><span class="text">Urbanización Puente Blanco Mz. F Lote 25-26 4ta Etapa </span></li>
+                  <li><a href="#"><span class="fa fa-phone mr-3"></span><span class="text">943991985</span></a></li>
+                  <li><a href="#"><span class="fa fa-paper-plane mr-3"></span><span class="text">saludocupacional@holosalud.pe</span></a></li>
                 </ul>
               </div>
             </div>
@@ -76,7 +76,7 @@
           <div class="col-md-12 text-center">
 
             <p class="mb-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados <i class="fa fa-heart" aria-hidden="true"></i>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
