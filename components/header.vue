@@ -20,7 +20,7 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-6 col-lg-7 d-flex topper align-items-center text-lg-right justify-content-end">
-            <p class="mb-0 register-link"><a href="#" class="btn btn-primary">Nose que puede ir aqui</a></p>
+            <p class="mb-0 register-link"><a href="#" class="btn btn-primary">Solicita tu cotización</a></p>
           </div>
         </div>
       </div>
@@ -59,13 +59,13 @@
         </button>
         <div class="collapse navbar-collapse" id="ftco-nav">
           <ul class="navbar-nav m-auto">
-            <li class="nav-item active"><a href="index.html" class="nav-link">Inicio</a></li>
-            <li class="nav-item"><a href="about.html" class="nav-link">Conócenos</a></li>
-            <li class="nav-item"><a href="services.html" class="nav-link">Servicios</a></li>
-            <li class="nav-item"><a href="doctors.html" class="nav-link">Doctores</a></li>
-            <li class="nav-item"><a href="department.html" class="nav-link">Examenes</a></li>
-            <li class="nav-item"><a href="pricing.html" class="nav-link">Cotizaciones</a></li>
-            <li class="nav-item"><a href="gallery.html" class="nav-link">Galería</a></li>
+            <li class="nav-item active"><a href="/" class="nav-link">Inicio</a></li>
+            <li class="nav-item"><a href="about" class="nav-link">Conócenos</a></li>
+            <li class="nav-item"><a href="services" class="nav-link">Servicios</a></li>
+            <li class="nav-item"><a href="doctors" class="nav-link">Doctores</a></li>
+            <li class="nav-item"><a href="exams" class="nav-link">Examenes</a></li>
+
+            <li class="nav-item"><a href="enterprise" class="nav-link">Empresas</a></li>
             <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
             <li class="nav-item"><a href="contact.html" class="nav-link">Contáctenos</a></li>
           </ul>
