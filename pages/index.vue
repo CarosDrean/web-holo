@@ -19,11 +19,7 @@
                             <select name="" id="iddepartamenos" class="form-control">
                               <option value="">Seleccione Especialidad</option>
                               <option value="">Cardiología</option>
-                              <option value="">----</option>
-                              <option value="">X-Ray</option>
-                              <option value="">Dental</option>
-                              <option value="">Ophthalmology</option>
-                              <option value="">Other Services</option>
+
                             </select>
                           </div>
                         </div>
@@ -94,38 +90,30 @@
           <div class="col-md-5 d-flex">
             <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
               <form action="#" class="appointment-form ftco-animate">
-                <h3>Solicite una cotización</h3>
+                <h3>Solicita una cotización</h3>
                 <div class="">
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombres">
+                    <input type="text" class="form-control" placeholder="Nombre de tu Empresa">
                   </div>
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Apellidos">
+                    <input type="text" class="form-control" placeholder="Ruc/DNI">
                   </div>
                 </div>
                 <div class="">
-
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Nombres y Apellidos">
+                  </div>
                   <div class="form-group">
                     <input type="text" class="form-control" placeholder="Celular">
                   </div>
-                </div>
-                <div class="">
                   <div class="form-group">
-                    <div class="input-wrap">
-                      <div class="icon"><span class="fa fa-calendar"></span></div>
-                      <input type="text" class="form-control appointment_date" placeholder="Date">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="input-wrap">
-                      <div class="icon"><span class="fa fa-clock-o"></span></div>
-                      <input type="text" class="form-control appointment_time" placeholder="aca otro campo y mas">
-                    </div>
+                    <input type="email" class="form-control" placeholder="Correo Electrónico">
                   </div>
                 </div>
+
                 <div class="">
                   <div class="form-group">
-                    <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Observaciones"></textarea>
+                    <textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="Escribe tu consulta aquí"></textarea>
                   </div>
                   <div class="form-group">
                     <input type="submit" value="Enviar" class="btn btn-secondary py-3 px-4">
@@ -151,7 +139,7 @@
                 <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
                   <h2 class="mb-4">Somos <span>HOLOSALUD</span> Especialistas cuidando tu salud</h2>
                   <p>Nuestro objetivo es que puedas tener las mejores condiciones para ingresar a un trabajo, no dudes de los servicios que te ofrecemos.</p>
-                  <p><a href="#" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="#" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
+                  <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
                 </div>
               </div>
             </div>
@@ -167,7 +155,7 @@
           <div class="col-md-7">
             <h2>Tú salud es nuestra prioridad</h2>
             <p>Trabaja con nosotros y dale un servicio de calidad a tus colaboradores.</p>
-            <p class="mb-0"><a href="#" class="btn btn-white px-4 py-3">Solicita una cotización</a></p>
+            <p class="mb-0"><a href="price" class="btn btn-white px-4 py-3">Solicita una cotización</a></p>
           </div>
         </div>
       </div>
@@ -211,21 +199,11 @@
             <div class="tab-content pt-4 pt-md-0 pl-md-3">
               <div class="tab-pane container p-0 active" id="services-1">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-1.jpg);"></div>
+                  <div class="col-md-5 img"  style="background-image: url(images/so.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Salud Ocupacional</a></h3>
-                    <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar.</p>
-                    <p>Holosalud actualmente en el 2020 se encuentra acreditado por la Diresa según constancia de acreditación: 004-2020-GORE·ICA·DRSA-DESAJSSO</p>
-                    <p>Tipos de Evaluaciones Médicas Ocupacionales:</p>
-                    <ul>
-                      <li><span class="fa fa-check"></span>Pre-Ocupacional:
-                        <p>Evaluación al postulante antes de ser admitido en un puesto de trabajo. Objetivo: Determinar su aptitud al puesto de trabajo al cual postula.</p></li>
-                      <li><span class="fa fa-check"></span>Périodico o Anual:
-                        <p>Evaluación al postulante donde se va monitorear la exposición a factores de riesgo e identificar alteraciones temporales, permanentes o agravadas en forma precoz. Detectar enfermedades comunes y dar un manejo preventivo.</p></li>
-                      <li><span class="fa fa-check"></span>De retiro o Cese:
-                        <p>Días previos al cese laboral. Válidos no más de 3 meses. Objetivo: Detectar enfermedades ocupacionales y secuelas de accidentes de trabajo. Prestar atención a las enfermedades indemnizables por ley en nuestro país. Guarda relación directa con el examen de pre ingreso (pre existencias).</p></li>
-
-                    </ul>
+                    <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar....</p>
+                    <p><a href="saludocupacional" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
                   </div>
                 </div>
               </div>
@@ -247,7 +225,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-3">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-3.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/audiometria.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Audiometría</a></h3>
                     <p>Para una adecuada evaluación audiométrica Holosalud cuenta varios Audiómetros todos de dos canales según norma IEC 60645-1: 2001 o ANSI S3.6-1996. De procedencia, Sueca, Danesa, Inglesa, etc. Que nos permitirá evaluar la vía aérea y ósea, con funciones de enmascaramiento y Logoaudiometría. A todos ellos se les realiza mantenimientos periódicos anuales (calibración de la vía aérea y ósea) así como calibración biológica semanal. Así mismo contamos con un videotoscopio de última generación marca Welch Allyn de procedencia americana, lo que nos garantiza evitar sesgos en la audiometría por algún artefacto en oído externo por ejemplo un tapón de serumen.
@@ -270,7 +248,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-5">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-5.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/espirometria.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Espirometría</a></h3>
                     <p>La espirometría forzada es una técnica de exploración de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada.
@@ -282,7 +260,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-6">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-6.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/psicologia.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Psicología</a></h3>
                     <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
@@ -293,7 +271,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-7">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-7.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/laboratorio.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Laboratorio</a></h3>
                     <p>En área del laboratorio contamos con equipos avanzados y personal capacitado con amplia experiencia profesional brindando así resultados en el menor tiempo posible, con la mayor precisión y exactitud que serán de gran apoyo para su diagnostico, aplicando las normas estandarizadas con todas las medidas de bioseguridad para el cuidado de usted y del personal.</p>
@@ -334,18 +312,18 @@
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-1.jpg);"></div>
+                <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
               </div>
               <div class="text text-center">
                 <h3 class="mb-2">Dr. Huaman Pisconti Manuel</h3>
                 <span class="position mb-2">Médico Ocupacional</span>
                 <div class="faded">
                   <p>Magister en Salud Ocupacional, Miembro de la Sociedad Peruana de Salud Ocupacional y Miembro de la Comision Internacional en Salud Ocupacional.
+
                   </p>
                   <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                    <li class="ftco-animate"><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                    <li class="ftco-animate"><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
                   </ul>
                 </div>
@@ -355,17 +333,16 @@
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-2.jpg);"></div>
+                <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
               </div>
               <div class="text text-center">
-                <h3 class="mb-2">Dr. Rachel Parker</h3>
-                <span class="position mb-2">Ophthalmologist</span>
+                <h3 class="mb-2">Dr. Manuel Huaman Pisconti</h3>
+                <span class="position mb-2">Cardiólogo</span>
                 <div class="faded">
-                  <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                  <p>Médico Cardiólogo del Hospital Regional de Ica, Especialista en Cardiología egresado del Hospital Nacional Edgardo Rebagliatti Martins</p>
                   <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                    <li class="ftco-animate"><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                    <li class="ftco-animate"><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
                   </ul>
                 </div>
@@ -532,8 +509,8 @@
       <div class="container">
         <div class="row justify-content-center pb-3">
           <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <span class="subheading">Read testimonials</span>
-            <h2 class="mb-4">Our Patient Says</h2>
+            <span class="subheading">Lee los testimonios de ellos</span>
+            <h2 class="mb-4">Ellos nos recomiendan</h2>
           </div>
         </div>
         <div class="row ftco-animate justify-content-center">

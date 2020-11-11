@@ -80,7 +80,12 @@
 
 <script>
 export default {
-  name: "services"
+  name: "about",
+  head() {
+    return {
+      title: 'HoloSalud | Servicios'
+    }
+  }
 }
 </script>
 

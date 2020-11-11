@@ -13,14 +13,14 @@
             <div class="social-media">
               <p class="mb-0 d-flex">
                 <a href="https://www.facebook.com/Holosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
+                <a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
                 <a href="https://instagram.com/holosaludsac?igshid=i4g41fixxj7b" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
+
               </p>
             </div>
           </div>
           <div class="col-sm-12 col-md-6 col-lg-7 d-flex topper align-items-center text-lg-right justify-content-end">
-            <p class="mb-0 register-link"><a href="#" class="btn btn-primary">Solicita tu cotización</a></p>
+            <p class="mb-0 register-link"><a href="price" class="btn btn-primary">Solicita tu cotización</a></p>
           </div>
         </div>
       </div>
@@ -64,10 +64,10 @@
             <li class="nav-item"><a href="services" class="nav-link">Servicios</a></li>
             <li class="nav-item"><a href="doctors" class="nav-link">Doctores</a></li>
             <li class="nav-item"><a href="exams" class="nav-link">Examenes</a></li>
-
+            <li class="nav-item"><a href="price" class="nav-link">Cotizaciones</a></li>
             <li class="nav-item"><a href="enterprise" class="nav-link">Empresas</a></li>
-            <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-            <li class="nav-item"><a href="contact.html" class="nav-link">Contáctenos</a></li>
+            <li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
+            <li class="nav-item"><a href="contact" class="nav-link">Contáctenos</a></li>
           </ul>
         </div>
       </div>

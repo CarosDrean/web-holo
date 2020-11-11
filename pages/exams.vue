@@ -165,3 +165,17 @@
 
   </div>
 </template>
+<script>
+export default {
+  name: "exams",
+  head() {
+    return {
+      title: 'HoloSalud | Exámenes'
+    }
+  }
+}
+</script>
+
+<style scoped>
+
+</style>

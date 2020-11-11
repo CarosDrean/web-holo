@@ -68,3 +68,18 @@
 
   </div>
 </template>
+
+<script>
+export default {
+  name: "enterprise",
+  head() {
+    return {
+      title: 'HoloSalud | Empresas'
+    }
+  }
+}
+</script>
+
+<style scoped>
+
+</style>

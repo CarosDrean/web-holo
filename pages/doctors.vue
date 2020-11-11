@@ -203,7 +203,12 @@
 
 <script>
 export default {
-  name: "doctors"
+  name: "doctors",
+  head() {
+    return {
+      title: 'HoloSalud | Staff Médico'
+    }
+  }
 }
 </script>
 
