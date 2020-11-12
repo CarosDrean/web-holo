@@ -19,18 +19,18 @@
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-1.jpg);"></div>
+                <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
               </div>
               <div class="text text-center">
                 <h3 class="mb-2">Dr. Huaman Pisconti Manuel</h3>
                 <span class="position mb-2">Médico Ocupacional</span>
                 <div class="faded">
                   <p>Magister en Salud Ocupacional, Miembro de la Sociedad Peruana de Salud Ocupacional y Miembro de la Comision Internacional en Salud Ocupacional.
+
                   </p>
                   <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                    <li class="ftco-animate"><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                    <li class="ftco-animate"><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
                   </ul>
                 </div>
@@ -40,17 +40,16 @@
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-2.jpg);"></div>
+                <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
               </div>
               <div class="text text-center">
-                <h3 class="mb-2">Dr. Rachel Parker</h3>
-                <span class="position mb-2">Ophthalmologist</span>
+                <h3 class="mb-2">Dr. Manuel Huaman Pisconti</h3>
+                <span class="position mb-2">Cardiólogo</span>
                 <div class="faded">
-                  <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                  <p>Médico Cardiólogo del Hospital Regional de Ica, Especialista en Cardiología egresado del Hospital Nacional Edgardo Rebagliatti Martins</p>
                   <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                    <li class="ftco-animate"><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                    <li class="ftco-animate"><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
                   </ul>
                 </div>

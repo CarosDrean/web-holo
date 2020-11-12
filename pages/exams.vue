@@ -50,21 +50,11 @@
             <div class="tab-content pt-4 pt-md-0 pl-md-3">
               <div class="tab-pane container p-0 active" id="services-1">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-1.jpg);"></div>
+                  <div class="col-md-5 img"  style="background-image: url(images/so.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Salud Ocupacional</a></h3>
-                    <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar.</p>
-                    <p>Holosalud actualmente en el 2020 se encuentra acreditado por la Diresa según constancia de acreditación: 004-2020-GORE·ICA·DRSA-DESAJSSO</p>
-                    <p>Tipos de Evaluaciones Médicas Ocupacionales:</p>
-                    <ul>
-                      <li><span class="fa fa-check"></span>Pre-Ocupacional:
-                        <p>Evaluación al postulante antes de ser admitido en un puesto de trabajo. Objetivo: Determinar su aptitud al puesto de trabajo al cual postula.</p></li>
-                      <li><span class="fa fa-check"></span>Périodico o Anual:
-                        <p>Evaluación al postulante donde se va monitorear la exposición a factores de riesgo e identificar alteraciones temporales, permanentes o agravadas en forma precoz. Detectar enfermedades comunes y dar un manejo preventivo.</p></li>
-                      <li><span class="fa fa-check"></span>De retiro o Cese:
-                        <p>Días previos al cese laboral. Válidos no más de 3 meses. Objetivo: Detectar enfermedades ocupacionales y secuelas de accidentes de trabajo. Prestar atención a las enfermedades indemnizables por ley en nuestro país. Guarda relación directa con el examen de pre ingreso (pre existencias).</p></li>
-
-                    </ul>
+                    <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar....</p>
+                    <p><a href="saludocupacional" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
                   </div>
                 </div>
               </div>
@@ -73,25 +63,20 @@
                   <div class="col-md-5 img" style="background-image: url(images/dept-2.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Oftalmología</a></h3>
-                    <p>El Servicio de Oftalmología cuenta con modernos equipos totalmente computarizados para una Evaluación de Calidad, entre los que podemos destacar: </p>
-                    <ul>
-                      <li><span class="fa fa-check"></span> AUTOREFRACTOMETRO KERATOMETRO PRK-9000, que cumple con las normas ISO 13485 e ISO 9001, de origen coreano. Cuenta con mantenimiento y calibración periódicos (mensual). Nos permite brindarles una refracción (medida de vista) de gran exactitud.</li>
-                      <li><span class="fa fa-check"></span>PROYECTOR DE OPTOTIPOS POTEC, de origen coreano, cuenta con certificado ISO 13485 e ISO 9001, que puede mostrar las cartillas con un brillo constante, operado mediante control remoto, rápida velocidad de cambio de cartillas, distancia de proyección: 2,5 a 8,0 metros y fuente de luz LED</li>
-                      <li><span class="fa fa-check"></span>LÁMPARA DE HENDIDURA TOPCON, mediante la cual podemos examinar todo el segmento anterior del globo ocular, y mediante accesorios, examinar también el segmento posterior (fondo de ojo), para descartar y diagnosticar patologías (glaucoma, catarata, pterigión, etc).</p>
-                      </li>
+                    <p>El Servicio de Oftalmología cuenta con modernos equipos totalmente computarizados para una Evaluación de Calidad, entre los que podemos..... </p>
+                    <p><a href="oftalmologia" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
 
-                    </ul>
                   </div>
                 </div>
               </div>
               <div class="tab-pane container p-0 fade" id="services-3">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-3.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/audiometria.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Audiometría</a></h3>
-                    <p>Para una adecuada evaluación audiométrica Holosalud cuenta varios Audiómetros todos de dos canales según norma IEC 60645-1: 2001 o ANSI S3.6-1996. De procedencia, Sueca, Danesa, Inglesa, etc. Que nos permitirá evaluar la vía aérea y ósea, con funciones de enmascaramiento y Logoaudiometría. A todos ellos se les realiza mantenimientos periódicos anuales (calibración de la vía aérea y ósea) así como calibración biológica semanal. Así mismo contamos con un videotoscopio de última generación marca Welch Allyn de procedencia americana, lo que nos garantiza evitar sesgos en la audiometría por algún artefacto en oído externo por ejemplo un tapón de serumen.
-                      En el caso de nuestras cabinas audiométricas cuentan con certificaciones Internacionales y Mediciones tanto en laboratorio Audiológico según las normas ISO 8253-1-1989 “Acoustic-Audiometric test methods” y OSHA Standard 29CFR, Audiometric. Test Rooms – 1910.95 App D como también mediciones con sonómetro y dosímetro in situ, vale decir en su ubicación en nuestras instalaciones y en condiciones de funcionamiento diario, donde se evalúa al trabajador; cumpliendo por mucho el máximo de ruido permitido que debe de tener en una cabina audiométrica según estándares nacionales e internacionales (OSHA Standard 29CFR)</p>
-
+                    <p>Para una adecuada evaluación audiométrica Holosalud cuenta varios Audiómetros todos de dos canales según norma IEC 60645-1: 2001 o ANSI S3.6-1996. De procedencia, Sueca, Danesa, Inglesa, etc.
+                      Que nos permitirá evaluar la vía aérea y ósea, con funciones de enmascaramiento y Logoaudiometría...</p>
+                    <p><a href="audiometria" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
                   </div>
                 </div>
               </div>
@@ -109,7 +94,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-5">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-5.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/espirometria.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Espirometría</a></h3>
                     <p>La espirometría forzada es una técnica de exploración de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada.
@@ -121,7 +106,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-6">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-6.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/psicologia.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Psicología</a></h3>
                     <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
@@ -132,27 +117,11 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-7">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-7.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/laboratorio.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Laboratorio</a></h3>
-                    <p>En área del laboratorio contamos con equipos avanzados y personal capacitado con amplia experiencia profesional brindando así resultados en el menor tiempo posible, con la mayor precisión y exactitud que serán de gran apoyo para su diagnostico, aplicando las normas estandarizadas con todas las medidas de bioseguridad para el cuidado de usted y del personal.</p>
-                    <p>1. Hematología </p>
-                    <ul>
-                      <li><span class="fa fa-check"></span>Microscopio Greetmed modelo GT116-201 </li>
-                      <li><span class="fa fa-check"></span>Micro centrifuga K modelo KHT-410E Baño María K Modelo YCW-04M Metodología: Manual</li>
-                    </ul>
-                    <p>2. Bioquímica Automatizada </p>
-                    <ul>
-                      <li><span class="fa fa-check"></span>Equipo espectro fotómetro Greet Med modelo nv203</li>
-                      <li><span class="fa fa-check"></span>Bortex Mixer Modelo VM-300</li>
-                      <li><span class="fa fa-check"></span>Baño María K Modelo YCW-04M</li>
-                    </ul>
-                    <p>3. Inmunología </p>
-                    <ul>
-                      <li><span class="fa fa-check"></span>PCR</li>
-                      <li><span class="fa fa-check"></span>Factor Reumatoide</li>
-                      <li><span class="fa fa-check"></span>RPR/VDRL</li>
-                    </ul>
+                    <p>En área del laboratorio contamos con equipos avanzados y personal capacitado con amplia experiencia profesional brindando así resultados en el menor tiempo posible, con la mayor precisión y exactitud que serán de gran apoyo para su diagnostico...</p>
+                    <p><a href="laboratorio" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
                   </div>
                 </div>
               </div>

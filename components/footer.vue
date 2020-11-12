@@ -20,12 +20,12 @@
               <h2 class="ftco-heading-2">Departamentos</h2>
               <ul class="list-unstyled">
                 <li><a href="saludocupacional"><span class="fa fa-chevron-right mr-2"></span>Salud Ocupacional</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Oftalmología</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Espirometría</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Rayos X</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Audiometría</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Psicología</a></li>
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Laboratorio</a></li>
+                <li><a href="oftalmologia"><span class="fa fa-chevron-right mr-2"></span>Oftalmología</a></li>
+                <li><a href="/"><span class="fa fa-chevron-right mr-2"></span>Espirometría</a></li>
+                <li><a href="/"><span class="fa fa-chevron-right mr-2"></span>Rayos X</a></li>
+                <li><a href="audiometria"><span class="fa fa-chevron-right mr-2"></span>Audiometría</a></li>
+                <li><a href="/"><span class="fa fa-chevron-right mr-2"></span>Psicología</a></li>
+                <li><a href="laboratorio"><span class="fa fa-chevron-right mr-2"></span>Laboratorio</a></li>
               </ul>
             </div>
           </div>
@@ -76,7 +76,7 @@
           <div class="col-md-12 text-center">
 
             <p class="mb-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados <i class="fa fa-heart" aria-hidden="true"></i>
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script>Holosalud2020 - Todos los derechos reservados <i class="fa fa-heart" aria-hidden="true"></i>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>

@@ -16,24 +16,111 @@
       <div class="container">
         <div class="row d-flex">
           <div class="col-md-6 col-lg-5 d-flex">
-            <div class="img w-100 d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
+            <div class="img w-100 d-flex align-items-center" style="background-image:url(images/about.jpg);">
             </div>
           </div>
           <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
             <div class="py-md-5">
               <div class="row justify-content-start pb-3">
                 <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
-                  <h2 class="mb-4">Somos <span>HOLOSALUD</span> Especialistas cuidando tu salud</h2>
-                  <p>Nuestro objetivo es que puedas tener las mejores condiciones para ingresar a un trabajo, no dudes de los servicios que te ofrecemos.</p>
-                  <p><a href="#" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="#" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
+                  <h2 class="mb-4">Somos <span>HOLOSALUD</span> </h2>
+                  <p>Somos una empresa innovadora que brinda servicios de médicos especialistas asegurando la promoción, prevención, diagnóstico, tratamiento y rehabilitación de salud con énfasis en la actualización médica continua
+                    y aplicación de los últimos tratamientos a disponibilidad en el medio con el fin de proteger a la población.</p>
+                  <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
+                    <h2 class="mb-4">Nuestra  <span>Misión</span> </h2>
+                    <p>Empresa innovadora que brinda servicios de salud por equipos multidisciplinarios, asegurando la promoción, prevención, diagnóstico,
+                      tratamiento, rehabilitación y gestión de la salud, a nivel individual, poblacional y empresarial.</p>
+
+                      <h2 class="mb-4">Nuestra  <span>Visión</span> </h2>
+                      <p>Empresa líder en brindar servicios de salud integrales con calidad, eficiencia y calidez a nivel individual, poblacional y empresarial.</p>
+
+
+                </div>
                 </div>
               </div>
-            </div>
+          </div>
           </div>
         </div>
       </div>
     </section>
 
+    <section class="ftco-section">
+      <div class="row justify-content-center mb-5 pb-2">
+        <div class="col-md-8 text-center heading-section ftco-animate">
+          <h2 class="mb-4"> Acreditaciones de <span> Holosalud</span></h2>
+        </div></div>
+      <div class="container">
+        <div class="row no-gutters">
+          <div class="col-md-3">
+
+            <a href="images/acreditacion.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion.jpg);">
+              <span class="overlay" > </span>
+              </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2020</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/minsacovid.png" class="image-popup img gallery ftco-animate" style="background-image: url(images/minsacovid.png);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Plan Minsa Covid </p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/auditormedico.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/auditormedico.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Registro de Auditor Médico </p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/categorizacion.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/categorizacion.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Categorización Policlínico</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2019.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2019.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2019</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2018.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2018.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2018</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2017.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2017.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2017</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2016.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2016.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2016</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2015.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2015.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2015</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2014.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2014.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2014</p>
+          </div>
+          <div class="col-md-3">
+            <a href="images/acreditacion2013.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/acreditacion2013.jpg);">
+              <span class="overlay"></span>
+            </a>
+            <p class="mb-4"  align="center">Acreditación Diresa 2013</p>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="ftco-facts img ftco-counter" style="background-image: url(images/bg_3.jpg);">
       <div class="overlay"></div>
       <div class="container">
@@ -74,22 +161,10 @@
       </div>
     </section>
 
-    <section class="ftco-section testimony-section img" style="background-image: url(/images/bg_4.jpg);">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row justify-content-center pb-3">
-          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <span class="subheading">Read testimonials</span>
-            <h2 class="mb-4">Our Patient Says</h2>
-          </div>
-        </div>
-        <div class="row ftco-animate justify-content-center">
-          <div class="col-md-12">
-            <!--VER COMO USAR CARRUSEL EN NUXT Y EL MENU FIXED-->
-          </div>
-        </div>
-      </div>
-    </section>
+
+
+
+
 
 
   </div>
