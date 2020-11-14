@@ -16,7 +16,7 @@
     <section class="ftco-section bg-light">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="col-md-6 col-lg-6 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
                 <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
@@ -37,7 +37,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="col-md-6 col-lg-6 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
                 <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
@@ -56,6 +56,7 @@
               </div>
             </div>
           </div>
+          <!--
           <div class="col-md-6 col-lg-3 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
@@ -75,27 +76,28 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-md-6 col-lg-3 ftco-animate">
-            <div class="staff">
-              <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-4.jpg);"></div>
-              </div>
-              <div class="text text-center">
-                <h3 class="mb-2">Dr. Alicia Henderson</h3>
-                <span class="position mb-2">Pediatrician</span>
-                <div class="faded">
-                  <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
+          </div> -->
+          <!--
+         <div class="col-md-6 col-lg-3 ftco-animate">
+           <div class="staff">
+             <div class="img-wrap d-flex align-items-stretch">
+               <div class="img align-self-stretch" style="background-image: url(images/doc-4.jpg);"></div>
+             </div>
+             <div class="text text-center">
+               <h3 class="mb-2">Dr. Alicia Henderson</h3>
+               <span class="position mb-2">Pediatrician</span>
+               <div class="faded">
+                 <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                 <ul class="ftco-social text-center">
+                   <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                   <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                   <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                   <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
+                 </ul>
+               </div>
+             </div>
+           </div>
+         </div> -->
         </div>
       </div>
     </section>

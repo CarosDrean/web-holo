@@ -8,39 +8,24 @@
       <section class="ftco-section ftco-no-pt ftco-no-pb ftco-services-2 bg-light">
         <div class="container">
           <div class="row d-flex">
-            <div class="col-md-6 col-lg-5 d-flex">
-              <div class="img w-100 d-flex align-self-stretch align-items-center" style="background-image:url(images/cardiologiafondo.jpg);">
-              </div>
+            <div class="col-md-10 col-lg-5 d-flex">
+
+              <img  src="../assets/images/cardiologiafondo.jpg" align="left-center"  height="533" width="800"/>
+
             </div>
             <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
               <div class="py-md-5">
                 <div class="row justify-content-start pb-3">
                   <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
                     <h2 class="mb-4"> <span>CARDIOLOGIA</span> </h2>
-                    <p>En HOLOSALUD contamos con el Dr. Huaman Pisconti que se encarga de la especialidad de cardiología.</p>
-                    <p>Conozcamos más de el.</p>
-                    <ul>
-                      <li>
-                        Médico Ocupacional-Cardiologo de la Clínica Holosalud.</li>
-                      <li>
-                        Magister en Gerencia de Servicios de Salud, UNMSM.</li>
-                      <li>
-                        Especialista en Cardiología egresado del Hospital Nacional Edgardo Rebagliatti Martins.</li>
-                      <li>
-                        Médico auditor egresado de la Universidad San Luis Gonzaga.</li>
-                      <li>
-                        Membresías
-                        - Miembro de la International Commission on Occupational Health (ICOH) para el trienio 2012-2014.</li>
-                      <li>
-                        Cursos:
-                        Curso de Espirometría con certificación en metodología NIOSH certificado por la ALAT (2013)</li>
-                      <li>
-                        Curso Internacional para Lectura de Radiografías para Neumoconiosis CENSOPAS/OIT (2014)</li>
-                      <li>
-                        Certificado en la realización de audiometrías por la Council on Accreditation of Occupational Hearing Conservation - CAOCH (2013).</li>
+                    <p class="text-black-50">DR. MANUEL HUAMAN PISCONTI - CMP: 43647</p>
+                          <p class="text-black-50">
+                      Especialista en prevención, diagnóstico y tratamiento en enfermedades del corazón, brindamos atención integral con calidad y eficiencia
+                      para mejorar el bienestar de nuestros pacientes, te ofrecemos tecnología médica de última generación como: electrocardiograma,
+                      ecocardiograma y holter. Postgrado en Cardiología en el Hospital Nacional Edgardo Rebagliatti Martins
+                      y Universidad Nacional Mayor de San Marcos Maestría en Gerencia de Servicios de Salud en la Universidad Nacional Mayor de San Marcos.</p>
 
-                    </ul>
-                    <p><a href="http://manuelhuaman.com/" class="btn btn-secondary btn-outline-secondary py-2 px-3">Conocer más....</a></p>
+                    <p class="text-black-50"><a href="http://manuelhuaman.com/" class="btn btn-secondary btn-outline-secondary py-2 px-5">Conocer más....</a></p>
                   </div>
                 </div>
               </div>

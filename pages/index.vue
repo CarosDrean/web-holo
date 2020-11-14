@@ -231,26 +231,25 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-4">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-4.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/rayosxxx.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Rayos X</a></h3>
                     <p>Nuestro procedimiento para la realización de radiografías de tórax está basado en la GEMO OO7 GUÍA TÉCNICA PARA TOMA DE RADIOGRAFÍAS DE TÓRAX SEGÚN TÉCNICA OIT de
                       la clasificación internacional de Radiografías de neumoconiosis OIT/2OOO y GEMO OO8 GUÍA TÉCNICA PARA LA LECTURA DE RADIOGRAFÍAS DE TÓRAX
                       utilizando la clasificación internacional de la OIT DE RADIOGRAFÍAS DE NEUMOCONIOSIS 2OOO.</p>
+                    <p><a href="rayosx" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
 
                   </div>
                 </div>
               </div>
               <div class="tab-pane container p-0 fade" id="services-5">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/espirometria.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/espirometria2.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Espirometría</a></h3>
-                    <p>La espirometría forzada es una técnica de exploración de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada.
-                      Nuestros procedimientos están basados en la GEMO OO6/GUÍA TÉCNICA PARA REALIZAR ESPIROMETRÍA OCUPACIONAL.</p>
-                    <p>Contamos con varios Espirómetros Digitales Computarizados de fabricación Inglesa, italiana, etc. Estos modelos de nueva generación son actualmente lo más avanzado en espirometría portátil. Todos ellos presentan mantenimientos periódicos anuales y se calibran diariamente con jeringas standares de calibración: Rudolph volume calibration siringes.</p>
-
-                  </div>
+                    <p>La espirometría forzada es una técnica de exploración
+                      de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada... </p>
+                    <p><a href="espirometria" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p></div>
                 </div>
               </div>
               <div class="tab-pane container p-0 fade" id="services-6">
@@ -259,7 +258,8 @@
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Psicología</a></h3>
                     <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
-                      Consiste en la evaluación del trabajador en sus diferentes aspectos (cognitivos, emocionales, etc.) los que son predictores del desempeño y de adaptación laboral; por medio de entrevistas y la aplicación de pruebas psicológicas.</p>
+                      Consiste en la evaluación del trabajador en sus diferentes aspectos...</p>
+                    <p><a href="psicologia" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
 
                   </div>
                 </div>
@@ -288,7 +288,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="col-md-6 col-lg-6 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
                 <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
@@ -309,7 +309,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 ftco-animate">
+          <div class="col-md-6 col-lg-6 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
                 <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
@@ -328,175 +328,176 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 ftco-animate">
-            <div class="staff">
-              <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-3.jpg);"></div>
-              </div>
-              <div class="text text-center">
-                <h3 class="mb-2">Dr. Ian Smith</h3>
-                <span class="position mb-2">Dentist</span>
-                <div class="faded">
-                  <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 ftco-animate">
-            <div class="staff">
-              <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/doc-4.jpg);"></div>
-              </div>
-              <div class="text text-center">
-                <h3 class="mb-2">Dr. Alicia Henderson</h3>
-                <span class="position mb-2">Pediatrician</span>
-                <div class="faded">
-                  <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-                  <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+          <!--
+           <div class="col-md-6 col-lg-3 ftco-animate">
+             <div class="staff">
+               <div class="img-wrap d-flex align-items-stretch">
+                 <div class="img align-self-stretch" style="background-image: url(images/doc-3.jpg);"></div>
+               </div>
+               <div class="text text-center">
+                 <h3 class="mb-2">Dr. Ian Smith</h3>
+                 <span class="position mb-2">Dentist</span>
+                 <div class="faded">
+                   <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                   <ul class="ftco-social text-center">
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
+                   </ul>
+                 </div>
+               </div>
+             </div>
+           </div>
+           <div class="col-md-6 col-lg-3 ftco-animate">
+             <div class="staff">
+               <div class="img-wrap d-flex align-items-stretch">
+                 <div class="img align-self-stretch" style="background-image: url(images/doc-4.jpg);"></div>
+               </div>
+               <div class="text text-center">
+                 <h3 class="mb-2">Dr. Alicia Henderson</h3>
+                 <span class="position mb-2">Pediatrician</span>
+                 <div class="faded">
+                   <p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+                   <ul class="ftco-social text-center">
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
+                     <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
+                   </ul>
+                 </div>
+               </div>
+             </div>
+           </div> -->
+         </div>
+       </div>
+     </section>
+
+     <section class="ftco-facts img ftco-counter" style="background-image: url(images/bg_3.jpg);">
+       <div class="overlay"></div>
+       <div class="container">
+         <div class="row">
+           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+             <div class="block-18 p-4">
+               <div class="text">
+                 <strong class="number" data-number="7">0</strong>
+                 <span>Años de experiencia</span>
+               </div>
+             </div>
+           </div>
+           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+             <div class="block-18 p-4">
+               <div class="text">
+                 <strong class="number" data-number="40000">0</strong>
+                 <span>Pacientes atendidos</span>
+               </div>
+             </div>
+           </div>
+           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+             <div class="block-18 p-4">
+               <div class="text">
+                 <strong class="number" data-number="20">0</strong>
+                 <span>Profesionales</span>
+               </div>
+             </div>
+           </div>
+           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
+             <div class="block-18 p-4">
+               <div class="text">
+                 <strong class="number" data-number="100">0</strong>
+                 <span>Personal eficiente </span>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>
+     </section>
+
+     <!--
+         <section class="ftco-section bg-light">
+           <div class="container-fluid px-md-5">
+             <div class="row justify-content-center mb-5 pb-5">
+               <div class="col-md-10 heading-section text-center ftco-animate">
+                 <h2 class="mb-4">Últimas Noticias</h2>
+                 <p>Entérate lo ultimo que hemos conseguido en esta sección respecto a la salud.</p>
+               </div>
+             </div>
+             <div class="row d-flex">
+               <div class="col-lg-4 ftco-animate">
+                 <div class="blog-entry">
+                   <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+                   </a>
+                   <div class="d-flex">
+                     <div class="meta pt-3 text-right pr-2">
+                       <div><a href="#"><span class="fa fa-calendar mr-2"></span>Aug. 12, 2020</a></div>
+                       <div><a href="#"><span class="fa fa-user mr-2"></span>Admin</a></div>
+                       <div><a href="#" class="meta-chat"><span class="fa fa-comment mr-2"></span> 3</a></div>
+                     </div>
+                     <div class="text d-block">
+                       <h3 class="heading"><a href="#">Auditor Externo Mintra</a></h3>
+                       <p>Holosalud felicita a su médico ocupacional el Dr. Manuel Antonio Huaman Pisconti por su reciente...</p>
+                       <p><a href="blog.html" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+
+               <div class="col-lg-4 ftco-animate">
+                 <div class="blog-entry">
+                   <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+                   </a>
+                   <div class="d-flex">
+                     <div class="meta pt-3 text-right pr-2">
+                       <div><a href="#"><span class="fa fa-calendar mr-2"></span>Aug. 12, 2020</a></div>
+                       <div><a href="#"><span class="fa fa-user mr-2"></span>Admin</a></div>
+                       <div><a href="#" class="meta-chat"><span class="fa fa-comment mr-2"></span> 3</a></div>
+                     </div>
+                     <div class="text d-block">
+                       <h3 class="heading"><a href="#">Plan Siscovid Minsa</a></h3>
+                       <p>Obtuvimos la aprobación de nuestro Plan Siscovid y los Registros del Instituto Nacional de Salud para
+                         el registro de las pruebas rápidas.</p>
+                       <p><a href="blog.html" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+               <div class="col-lg-4 ftco-animate">
+                 <div class="blog-entry">
+                   <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+                   </a>
+                   <div class="d-flex">
+                     <div class="meta pt-3 text-right pr-2">
+                       <div><a href="#"><span class="fa fa-calendar mr-2"></span>Aug. 12, 2020</a></div>
+                       <div><a href="#"><span class="fa fa-user mr-2"></span>Admin</a></div>
+                       <div><a href="#" class="meta-chat"><span class="fa fa-comment mr-2"></span> 3</a></div>
+                     </div>
+                     <div class="text d-block">
+                       <h3 class="heading"><a href="#">Maestría en Salud Ocupacional</a></h3>
+                       <p>La clínica Holosalud brinda su reconocimiento a nuestro médico ocupacional, el Dr. Manuel Antonio Huaman
+                         Pisconti, por su maestría en salud ocupacional.</p>
+                       <p><a href="blog.html" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </section> -->
+
+
       </div>
-    </section>
+    </template>
 
-    <section class="ftco-facts img ftco-counter" style="background-image: url(images/bg_3.jpg);">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 p-4">
-              <div class="text">
-                <strong class="number" data-number="7">0</strong>
-                <span>Años de experiencia</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 p-4">
-              <div class="text">
-                <strong class="number" data-number="40000">0</strong>
-                <span>Pacientes atendidos</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 p-4">
-              <div class="text">
-                <strong class="number" data-number="20">0</strong>
-                <span>Profesionales</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-            <div class="block-18 p-4">
-              <div class="text">
-                <strong class="number" data-number="100">0</strong>
-                <span>Personal eficiente </span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <section class="ftco-section bg-light">
-      <div class="container-fluid px-md-5">
-        <div class="row justify-content-center mb-5 pb-5">
-          <div class="col-md-10 heading-section text-center ftco-animate">
-            <h2 class="mb-4">Últimas Noticias</h2>
-            <p>Entérate lo ultimo que hemos conseguido en esta sección respecto a la salud.</p>
-          </div>
-        </div>
-        <div class="row d-flex">
-          <div class="col-lg-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
-              </a>
-              <div class="d-flex">
-                <div class="meta pt-3 text-right pr-2">
-                  <div><a href="#"><span class="fa fa-calendar mr-2"></span>Aug. 12, 2020</a></div>
-                  <div><a href="#"><span class="fa fa-user mr-2"></span>Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="fa fa-comment mr-2"></span> 3</a></div>
-                </div>
-                <div class="text d-block">
-                  <h3 class="heading"><a href="#">Auditor Externo Mintra</a></h3>
-                  <p>Holosalud felicita a su médico ocupacional el Dr. Manuel Antonio Huaman Pisconti por su reciente...</p>
-                  <p><a href="blog.html" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
-              </a>
-              <div class="d-flex">
-                <div class="meta pt-3 text-right pr-2">
-                  <div><a href="#"><span class="fa fa-calendar mr-2"></span>Aug. 12, 2020</a></div>
-                  <div><a href="#"><span class="fa fa-user mr-2"></span>Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="fa fa-comment mr-2"></span> 3</a></div>
-                </div>
-                <div class="text d-block">
-                  <h3 class="heading"><a href="#">Plan Siscovid Minsa</a></h3>
-                  <p>Obtuvimos la aprobación de nuestro Plan Siscovid y los Registros del Instituto Nacional de Salud para
-                    el registro de las pruebas rápidas.</p>
-                  <p><a href="blog.html" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
-              </a>
-              <div class="d-flex">
-                <div class="meta pt-3 text-right pr-2">
-                  <div><a href="#"><span class="fa fa-calendar mr-2"></span>Aug. 12, 2020</a></div>
-                  <div><a href="#"><span class="fa fa-user mr-2"></span>Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="fa fa-comment mr-2"></span> 3</a></div>
-                </div>
-                <div class="text d-block">
-                  <h3 class="heading"><a href="#">Maestría en Salud Ocupacional</a></h3>
-                  <p>La clínica Holosalud brinda su reconocimiento a nuestro médico ocupacional, el Dr. Manuel Antonio Huaman
-                    Pisconti, por su maestría en salud ocupacional.</p>
-                  <p><a href="blog.html" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-  </div>
-</template>
-
-<script lang="ts">
-export default {
-  head() {
-    return {
-      title: 'HoloSalud | Inicio'
+    <script lang="ts">
+    export default {
+      head() {
+        return {
+          title: 'HoloSalud | Inicio'
+        }
+      }
     }
-  }
-}
-</script>
+    </script>
 
-<style>
+    <style>
 
-</style>
+    </style>

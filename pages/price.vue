@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/cotizacionesfondo.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
@@ -66,7 +66,7 @@
                 <h3>Solicita una cotización</h3>
                 <div class="">
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombre de tu Empresa">
+                    <input type="text"   class="form-control" placeholder="Nombre de tu Empresa">
                   </div>
                   <div class="form-group">
                     <input type="text" class="form-control" placeholder="Ruc/DNI">

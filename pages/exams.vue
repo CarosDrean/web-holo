@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('/images/examenes.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
@@ -82,26 +82,25 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-4">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-4.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/rayosxxx.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Rayos X</a></h3>
                     <p>Nuestro procedimiento para la realización de radiografías de tórax está basado en la GEMO OO7 GUÍA TÉCNICA PARA TOMA DE RADIOGRAFÍAS DE TÓRAX SEGÚN TÉCNICA OIT de
                       la clasificación internacional de Radiografías de neumoconiosis OIT/2OOO y GEMO OO8 GUÍA TÉCNICA PARA LA LECTURA DE RADIOGRAFÍAS DE TÓRAX
                       utilizando la clasificación internacional de la OIT DE RADIOGRAFÍAS DE NEUMOCONIOSIS 2OOO.</p>
+                    <p><a href="rayosx" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
 
                   </div>
                 </div>
               </div>
               <div class="tab-pane container p-0 fade" id="services-5">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/espirometria.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(images/espirometria2.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Espirometría</a></h3>
-                    <p>La espirometría forzada es una técnica de exploración de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada.
-                      Nuestros procedimientos están basados en la GEMO OO6/GUÍA TÉCNICA PARA REALIZAR ESPIROMETRÍA OCUPACIONAL.</p>
-                    <p>Contamos con varios Espirómetros Digitales Computarizados de fabricación Inglesa, italiana, etc. Estos modelos de nueva generación son actualmente lo más avanzado en espirometría portátil. Todos ellos presentan mantenimientos periódicos anuales y se calibran diariamente con jeringas standares de calibración: Rudolph volume calibration siringes.</p>
-
-                  </div>
+                    <p>La espirometría forzada es una técnica de exploración
+                      de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada... </p>
+                    <p><a href="espirometria" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p></div>
                 </div>
               </div>
               <div class="tab-pane container p-0 fade" id="services-6">
@@ -110,7 +109,8 @@
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Psicología</a></h3>
                     <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
-                      Consiste en la evaluación del trabajador en sus diferentes aspectos (cognitivos, emocionales, etc.) los que son predictores del desempeño y de adaptación laboral; por medio de entrevistas y la aplicación de pruebas psicológicas.</p>
+                      Consiste en la evaluación del trabajador en sus diferentes aspectos...</p>
+                    <p><a href="psicologia" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
 
                   </div>
                 </div>
