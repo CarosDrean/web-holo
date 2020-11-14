@@ -59,7 +59,48 @@
         </button>
         <div class="collapse navbar-collapse" id="ftco-nav">
           <ul class="navbar-nav m-auto">
-            <li class="nav-item active"><a href="/" class="nav-link">Inicio</a></li>
+            <router-link to="/" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Inicio</a>
+              </li>
+            </router-link>
+            <router-link to="/about" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Conocenos</a>
+              </li>
+            </router-link>
+            <router-link to="/services" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Servicios</a>
+              </li>
+            </router-link>
+            <router-link to="/doctors" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Doctores</a>
+              </li>
+            </router-link>
+            <router-link to="/exams" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Examenes</a>
+              </li>
+            </router-link>
+            <router-link to="/price" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Cotizaciones</a>
+              </li>
+            </router-link>
+            <router-link to="/enterprise" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Empresas</a>
+              </li>
+            </router-link>
+            <router-link to="/contact" v-slot="{ href, route, navigate, isActive, isExactActive }">
+              <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
+                <a class="nav-link" :href="href" @click="navigate">Contacto</a>
+              </li>
+            </router-link>
+
+            <!--<li class="nav-item active"><a href="/" class="nav-link">Inicio</a></li>
             <li class="nav-item"><a href="about" class="nav-link">Conócenos</a></li>
             <li class="nav-item"><a href="services" class="nav-link">Servicios</a></li>
             <li class="nav-item"><a href="doctors" class="nav-link">Doctores</a></li>
@@ -67,7 +108,7 @@
             <li class="nav-item"><a href="price" class="nav-link">Cotizaciones</a></li>
             <li class="nav-item"><a href="enterprise" class="nav-link">Empresas</a></li>
             <li class="nav-item"><a href="blog" class="nav-link">Blog</a></li>
-            <li class="nav-item"><a href="contact" class="nav-link">Contáctenos</a></li>
+            <li class="nav-item"><a href="contact" class="nav-link">Contáctenos</a></li>-->
           </ul>
         </div>
       </div>
