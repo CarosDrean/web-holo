@@ -483,22 +483,7 @@
       </div>
     </section>
 
-    <section class="ftco-section testimony-section img" style="background-image: url(/images/bg_4.jpg);">
-      <div class="overlay"></div>
-      <div class="container">
-        <div class="row justify-content-center pb-3">
-          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
-            <span class="subheading">Lee los testimonios de ellos</span>
-            <h2 class="mb-4">Ellos nos recomiendan</h2>
-          </div>
-        </div>
-        <div class="row ftco-animate justify-content-center">
-          <div class="col-md-12">
-            <!--VER COMO USAR CARRUSEL EN NUXT Y EL MENU FIXED-->
-          </div>
-        </div>
-      </div>
-    </section>
+
   </div>
 </template>
 

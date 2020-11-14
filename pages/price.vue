@@ -18,7 +18,7 @@
             <div class="py-lg-5">
               <div class="row justify-content-center pb-5">
                 <div class="col-md-12 heading-section ftco-animate">
-                  <h2 class="mb-3">Bienvenido a <span>Holosalud</span></h2>
+                  <h2 class="mb-3">Protocolos comunes de <span>Holosalud</span></h2>
                 </div>
               </div>
               <div class="row">
@@ -27,7 +27,7 @@
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ambulance"></span></div>
                     <div class="media-body pl-md-4">
                       <h3 class="heading mb-3">Prueba Rápida Covid19</h3>
-                      <p>Estamos realizando las pruebas rapidas del Covid 19, disminuyendo la preocupación de la población iqueña.</p>
+
                     </div>
                   </div>
                 </div>
@@ -35,26 +35,25 @@
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
-                      <h3 class="heading mb-3">Staff Médico</h3>
-                      <p>En HOLOSALUD contamos con doctores que cubren todas las especialidades médicas necesarias para brindarle a su empresa una evaluación médica ocupacional de calidad.</p>
+                      <h3 class="heading mb-3">Protocolo Conductor</h3>
+
                     </div>
                   </div>
                 </div>
                 <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
                   <div class="media block-6 services d-flex">
-                    <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-flag"></span></div>
+                    <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
-                      <h3 class="heading mb-3">Estamos Ubicados</h3>
-                      <p>Nuestro centro médico se encuentra ubicado en una zona accesible para sus trabajadores, un lugar comodo y ambientado con todas las prevenciones del caso, visitanos ya!</p>
+                      <h3 class="heading mb-3">Protocolo Operativo</h3>
+
                     </div>
                   </div>
                 </div>
                 <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
                   <div class="media block-6 services d-flex">
-                    <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-stethoscope"></span></div>
+                    <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
-                      <h3 class="heading mb-3">Médico Ocupacional</h3>
-                      <p>Nuestro médico ocupacional el Dr. Manuel Huaman Pisconti, es Mágister en Salud Ocupacional y miembro de la Sociedad Peruana de Salud Ocupacional; sus trabajadores no pueden estar en mejores manos.</p>
+                      <h3 class="heading mb-3">Protocolo Administrativo</h3>
                     </div>
                   </div>
                 </div>

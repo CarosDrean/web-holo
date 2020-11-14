@@ -26,37 +26,37 @@
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/image_2.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/image_2.jpg);">
+            <a href="images/cosapi.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/cosapi.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/image_3.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/image_3.jpg);">
+            <a href="images/shougangn.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/shougangn.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/image_4.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/image_4.jpg);">
+            <a href="images/sanmartin.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/sanmartin.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/image_5.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/image_5.jpg);">
+            <a href="images/marcobre.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/marcobre.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/image_6.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/image_6.jpg);">
+            <a href="images/adidas.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/adidas.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/dept-1.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/dept-1.jpg);">
+            <a href="images/apumayo.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/apumayo.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
           <div class="col-md-3">
-            <a href="images/dept-2.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/dept-2.jpg);">
+            <a href="images/ferreyros.jpg" class="image-popup img gallery ftco-animate" style="background-image: url(images/ferreyros.jpg);">
               <span class="overlay"></span>
             </a>
           </div>
