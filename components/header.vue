@@ -33,14 +33,9 @@
           <div class="col-md-4 d-flex mb-2 mb-md-0">
             <a class="navbar-brand d-flex align-items-center" href="index.html">
               <img src="../assets/images/logo-2-png-sinfondo.png" height="50" width="50" />
-          <span> Holosalud</span></a>
-
-
+              <span> Holosalud</span>
+            </a>
           </div>
-
-
-
-
 
           <div class="col-md-4 d-flex topper mb-md-0 mb-2 align-items-center">
             <div class="icon d-flex justify-content-center align-items-center">

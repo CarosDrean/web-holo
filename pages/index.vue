@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap js-fullheight" style="background-image: url('/images/bg_2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
@@ -89,31 +89,31 @@
           </div>
           <div class="col-md-5 d-flex">
             <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
-              <form action="#" class="appointment-form ftco-animate">
+              <form action="#" class="appointment-form ftco-animate" @submit.prevent="sendMail">
                 <h3>Solicita una cotización</h3>
                 <div class="">
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombre de tu Empresa">
+                    <input type="text" class="form-control" placeholder="Nombre de tu Empresa" v-model="businessMail.business">
                   </div>
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Ruc/DNI">
+                    <input type="text" class="form-control" placeholder="Ruc/DNI" v-model="businessMail.ruc">
                   </div>
                 </div>
                 <div class="">
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombres y Apellidos">
+                    <input type="text" class="form-control" placeholder="Nombres y Apellidos" v-model="businessMail.name">
                   </div>
                   <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Celular">
+                    <input type="text" class="form-control" placeholder="Celular" v-model="businessMail.phone">
                   </div>
                   <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Correo Electrónico">
+                    <input type="email" class="form-control" placeholder="Correo Electrónico" v-model="businessMail.email">
                   </div>
                 </div>
 
                 <div class="">
                   <div class="form-group">
-                    <textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="Escribe tu consulta aquí"></textarea>
+                    <textarea name="" id="" cols="30" rows="10" class="form-control" v-model="businessMail.consult" placeholder="Escribe tu consulta aquí"></textarea>
                   </div>
                   <div class="form-group">
                     <input type="submit" value="Enviar" class="btn btn-secondary py-3 px-4">
@@ -130,7 +130,7 @@
       <div class="container">
         <div class="row d-flex">
           <div class="col-md-6 col-lg-5 d-flex">
-            <div class="img w-100 d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
+            <div class="img w-100 d-flex align-self-stretch align-items-center" style="background-image:url(/images/about.jpg);">
             </div>
           </div>
           <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
@@ -148,7 +148,7 @@
       </div>
     </section>
 
-    <section class="ftco-intro img" style="background-image: url(images/bg_3.jpg);">
+    <section class="ftco-intro img" style="background-image: url(/images/bg_3.jpg);">
       <div class="overlay"></div>
       <div class="container">
         <div class="row justify-content-end">
@@ -199,7 +199,7 @@
             <div class="tab-content pt-4 pt-md-0 pl-md-3">
               <div class="tab-pane container p-0 active" id="services-1">
                 <div class="row">
-                  <div class="col-md-5 img"  style="background-image: url(images/so.jpg);"></div>
+                  <div class="col-md-5 img"  style="background-image: url(/images/so.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Salud Ocupacional</a></h3>
                     <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar....</p>
@@ -209,7 +209,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-2">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/dept-2.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(/images/dept-2.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Oftalmología</a></h3>
                     <p>El Servicio de Oftalmología cuenta con modernos equipos totalmente computarizados para una Evaluación de Calidad, entre los que podemos..... </p>
@@ -220,7 +220,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-3">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/audiometria.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(/images/audiometria.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Audiometría</a></h3>
                     <p>Para una adecuada evaluación audiométrica Holosalud cuenta varios Audiómetros todos de dos canales según norma IEC 60645-1: 2001 o ANSI S3.6-1996. De procedencia, Sueca, Danesa, Inglesa, etc.
@@ -231,7 +231,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-4">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/rayosxxx.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(/images/rayosxxx.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Rayos X</a></h3>
                     <p>Nuestro procedimiento para la realización de radiografías de tórax está basado en la GEMO OO7 GUÍA TÉCNICA PARA TOMA DE RADIOGRAFÍAS DE TÓRAX SEGÚN TÉCNICA OIT de
@@ -244,7 +244,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-5">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/espirometria2.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(/images/espirometria2.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Espirometría</a></h3>
                     <p>La espirometría forzada es una técnica de exploración
@@ -254,7 +254,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-6">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/psicologia.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(/images/psicologia.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Psicología</a></h3>
                     <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
@@ -266,7 +266,7 @@
               </div>
               <div class="tab-pane container p-0 fade" id="services-7">
                 <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(images/laboratorio.jpg);"></div>
+                  <div class="col-md-5 img" style="background-image: url(/images/laboratorio.jpg);"></div>
                   <div class="col-md-7 text pl-md-4">
                     <h3><a href="#">Laboratorio</a></h3>
                     <p>En área del laboratorio contamos con equipos avanzados y personal capacitado con amplia experiencia profesional brindando así resultados en el menor tiempo posible, con la mayor precisión y exactitud que serán de gran apoyo para su diagnostico...</p>
@@ -291,7 +291,7 @@
           <div class="col-md-6 col-lg-6 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
+                <div class="img align-self-stretch" style="background-image: url(/images/drhuaman.png);"></div>
               </div>
               <div class="text text-center">
                 <h3 class="mb-2">Dr. Huaman Pisconti Manuel</h3>
@@ -312,7 +312,7 @@
           <div class="col-md-6 col-lg-6 ftco-animate">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(images/drhuaman.png);"></div>
+                <div class="img align-self-stretch" style="background-image: url(/images/drhuaman.png);"></div>
               </div>
               <div class="text text-center">
                 <h3 class="mb-2">Dr. Manuel Huaman Pisconti</h3>
@@ -373,7 +373,7 @@
        </div>
      </section>
 
-     <section class="ftco-facts img ftco-counter" style="background-image: url(images/bg_3.jpg);">
+     <section class="ftco-facts img ftco-counter" style="background-image: url(/images/bg_3.jpg);">
        <div class="overlay"></div>
        <div class="container">
          <div class="row">
@@ -489,13 +489,61 @@
     </template>
 
     <script lang="ts">
-    export default {
+    import Vue from "vue"
+    import axios from "axios"
+    const config = require('../config')
+
+    export default Vue.extend({
       head() {
         return {
           title: 'HoloSalud | Inicio'
         }
+      },
+      data(){
+        return {
+          businessMail: {
+            business: "",
+            ruc: "",
+            name: "",
+            phone: "",
+            email: "",
+            consult: ""
+          }
+        };
+      },
+      methods: {
+        async sendMail() {
+          let data = this.$data.businessMail
+          const token = await this.login()
+
+          const headers = {
+            'Content-Type': 'application/json',
+            'Authorization': token
+          }
+          try {
+            const resp = await axios.post(config.URL_MAIL + "/mailweb/", data, {headers: headers})
+            console.log(resp)
+          } catch (e) {
+            console.log(e)
+          }
+
+        },
+        async login(): Promise<string>{
+          let forLogin = {
+            secret: config.SECRET_TOKEN
+          }
+          let token = ""
+          try {
+            const resp = await axios.post(config.URL_MAIL + "/login", forLogin)
+            console.log(resp)
+            token = resp.data.token
+          }catch (e) {
+            console.log(e)
+          }
+          return token
+        }
       }
-    }
+    })
     </script>
 
     <style>
