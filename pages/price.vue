@@ -98,7 +98,15 @@
         </div>
       </div>
     </section>
-
-
   </div>
 </template>
+<script>
+export default {
+  name: "price",
+  head() {
+    return {
+      title: 'HoloSalud | Cotizacion'
+    }
+  },
+}
+</script>
