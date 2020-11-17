@@ -10,7 +10,7 @@
               <p class="mb-4">Nuestro médico ocupacional, el Dr. Manuel Antonio Huaman Pisconti Magister en Salud Ocupacional, es miembro de la Sociedad Peruana de Salud Ocupacional, miembro de la Comisión Internacional en Salud Ocupacional, miembro de la Sociedad Española de Cardiología y Auditor Externo del Ministerio de Trabajo.</p>
               <div class="row">
                 <div class="col-md-7 col-lg-10">
-                  <form action="#" class="appointment-form-intro">
+                  <form action="#" @submit.prevent="cardio" class="appointment-form-intro">
                     <div class="d-flex">
                       <div class="form-group">
                         <div class="form-field">
@@ -131,98 +131,7 @@
 
     <Services/>
 
-    <section class="ftco-section bg-light">
-      <div class="container-fluid px-5">
-        <div class="row justify-content-center mb-5 pb-2">
-          <div class="col-md-8 text-center heading-section">
-            <h2 class="mb-4">Nuestros Doctores Calificados</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-3">
-            <div class="staff">
-              <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(/images/drhuaman.png);"></div>
-              </div>
-              <div class="text text-center" style="position: static !important;">
-                <h3 class="mb-2">Dr. Huaman Pisconti Manuel</h3>
-                <span class="position mb-2">Médico Ocupacional</span>
-                <div class="faded">
-                  <p>Magister en Salud Ocupacional, Miembro de la Sociedad Peruana de Salud Ocupacional y Miembro de la Comision Internacional en Salud Ocupacional, Especialista en Cardiología egresado del Hospital Nacional Edgardo Rebagliatti Martins.
-
-                  </p>
-                  <ul class="ftco-social text-center">
-                    <li><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="staff">
-              <div class="img-wrap d-flex align-items-stretch">
-                <div class="img align-self-stretch" style="background-image: url(/images/drmarlon.jpeg);"></div>
-              </div>
-              <div class="text text-center" style="position: static !important;">
-                <h3 class="mb-2">Dr. Marlon Yovera Aldana</h3>
-                <span class="position mb-2">Auditor Médico</span>
-                <div class="faded">
-                  <p>Auditor Médico de la Clinica Holosalud 2013-actual, Auditor en sistemas de gestion en seguridad y salud ocupacional </p>
-                  <ul class="ftco-social text-center">
-                    <li><a target="_blank"  class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li><a target="_blank"  class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li><a target="_blank"  class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-
-           <div class="col-md-6 col-lg-3 ftco-animate">
-             <div class="staff">
-               <div class="img-wrap d-flex align-items-stretch">
-                 <div class="img align-self-stretch" style="background-image: url(images/drarafo.jpeg);"></div>
-               </div>
-               <div class="text text-center">
-                 <h3 class="mb-2">Dra. Betty Rossana Raffo Flores</h3>
-                 <span class="position mb-2">Médico Cirujano</span>
-                 <div class="faded">
-                   <p>Medicina Humana en la Universidad Nacional "San Luis Gonzaga de Ica", Maestría en salud ocupacional Universidad Alas Peruanas.</p>
-                   <ul class="ftco-social text-center">
-                     <li class="ftco-animate"><a class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                     <li class="ftco-animate"><a  class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-
-                     <li class="ftco-animate"><a  class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                   </ul>
-                 </div>
-               </div>
-             </div>
-           </div>
-           <div class="col-md-6 col-lg-3 ftco-animate">
-             <div class="staff">
-               <div class="img-wrap d-flex align-items-stretch">
-                 <div class="img align-self-stretch" style="background-image: url(images/drcesar.jpeg);"></div>
-               </div>
-               <div class="text text-center">
-                 <h3 class="mb-2">Dr. Cesar Cruzalegui</h3>
-                 <span class="position mb-2">Auditor Medico General</span>
-                 <div class="faded">
-                   <p>Supersivor de gestion y seguridad y salud ocupacional, Auditor Médico General de Holosalud, Auditor en sistemas de gestion en seguridad y salud ocupacional</p>
-                   <ul class="ftco-social text-center">
-                     <li class="ftco-animate"><a  class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                     <li class="ftco-animate"><a  class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-
-                     <li class="ftco-animate"><a class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-                   </ul>
-                 </div>
-               </div>
-             </div>
-           </div>
-         </div>
-       </div>
-     </section>
+    <Doctors/>
 
      <section class="ftco-facts img ftco-counter" style="background-image: url(/images/bg_3.jpg);">
        <div class="overlay"></div>
@@ -350,12 +259,12 @@
     <script lang="ts">
     import Services from "~/components/services.vue";
     import Quotation from "~/components/quotation.vue"
+    import Doctors from "~/components/doctors.vue"
     import Vue from "vue"
-    import axios from "axios"
     const config = require('../config')
 
     export default Vue.extend({
-      components: {Services, Quotation},
+      components: {Services, Quotation, Doctors},
       head() {
         return {
           title: 'HoloSalud | Inicio'
@@ -363,47 +272,14 @@
       },
       data(){
         return {
-          businessMail: {
-            business: "",
-            ruc: "",
-            name: "",
-            phone: "",
-            email: "",
-            consult: ""
-          }
+
         };
       },
       methods: {
-        async sendMail() {
-          let data = this.$data.businessMail
-          const token = await this.loginApiMail()
-
-          const headers = {
-            'Content-Type': 'application/json',
-            'Authorization': token
-          }
-          try {
-            const resp = await axios.post(config.URL_MAIL + "/mailweb/", data, {headers: headers})
-            console.log(resp)
-          } catch (e) {
-            console.log(e)
-          }
-
+        cardio(){
+          let routeData = this.$router.resolve({path: '/cardio'});
+          window.open(routeData.href = 'http://manuelhuaman.com/', '_blank');
         },
-        async loginApiMail(): Promise<string>{
-          let forLogin = {
-            secret: config.SECRET_TOKEN
-          }
-          let token = ""
-          try {
-            const resp = await axios.post(config.URL_MAIL + "/login", forLogin)
-            console.log(resp)
-            token = resp.data.token
-          }catch (e) {
-            console.log(e)
-          }
-          return token
-        }
       }
     })
     </script>

@@ -25,7 +25,7 @@
                       ecocardiograma y holter. Postgrado en Cardiología en el Hospital Nacional Edgardo Rebagliatti Martins
                       y Universidad Nacional Mayor de San Marcos Maestría en Gerencia de Servicios de Salud en la Universidad Nacional Mayor de San Marcos.</p>
 
-                    <p class="text-black-50"><a href="http://manuelhuaman.com/" class="btn btn-secondary btn-outline-secondary py-2 px-5">Conocer más....</a></p>
+                    <p class="text-black-50"><a target="_blank" href="http://manuelhuaman.com/" class="btn btn-secondary btn-outline-secondary py-2 px-5">Conocer más....</a></p>
                   </div>
                 </div>
               </div>

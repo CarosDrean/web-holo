@@ -20,10 +20,7 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-6 col-lg-7 d-flex topper align-items-center text-lg-right justify-content-end">
-
-            <p class="mb-0 register-link"><a href="https://resultados.holosalud.org/" class="btn btn-primary">Mi Clínica Online</a></p>
-
-
+            <p class="mb-0 register-link"><a target="_blank" href="https://resultados.holosalud.org/" class="btn btn-primary">Mi Clínica Online</a></p>
           </div>
         </div>
       </div>
@@ -34,8 +31,8 @@
         <div class="row d-flex align-items-start align-items-center px-3 px-md-0">
 
           <div class="col-md-4 d-flex mb-2 mb-md-0">
-            <a class="navbar-brand d-flex align-items-center" href="index.html">
-              <img src="../assets/images/logo-2-png-sinfondo.png" height="50" width="50" />
+            <a class="navbar-brand d-flex align-items-center" href="/">
+              <img src="/images/logo-2-png-sinfondo.png" height="50" width="50" />
               <span> Holosalud</span>
             </a>
           </div>
