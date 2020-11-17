@@ -39,6 +39,7 @@
 <script lang="ts">
 import axios from "axios";
 import Vue from "vue"
+import Swal from 'sweetalert2'
 const config = require('../config')
 
 export default Vue.extend({
@@ -66,8 +67,21 @@ export default Vue.extend({
       }
       try {
         const resp = await axios.post(config.URL_MAIL + "/mailweb/", data, {headers: headers})
+        Swal.fire({
+          title: 'Enviado.',
+          html: 'Correo Enviado Con Exito',
+          icon: 'success',
+          confirmButtonText: 'Aceptar'
+        })
+        this.$data.businessMail = {}
         console.log(resp)
       } catch (e) {
+        Swal.fire({
+          title: 'Error.',
+          html: '¡Ocurrio un error!',
+          icon: 'error',
+          confirmButtonText: 'Aceptar'
+        })
         console.log(e)
       }
 
