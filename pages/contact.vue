@@ -53,44 +53,17 @@
         </div>
       </div>
       <div class="row no-gutters block-9">
-        <div class="col-md-6 order-md-last d-flex">
-          <form action="#" class="bg-light p-5 contact-form">
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Nombres y Apellidos">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Correo Electrónico">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Asunto">
-            </div>
-            <div class="form-group">
-              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Mensaje"></textarea>
-            </div>
-            <div class="form-group">
-              <input type="submit" value="Enviar mensaje" class="btn btn-secondary py-3 px-5">
-            </div>
-          </form>
-
-        </div>
         <!--FALTA QUE APAREZCA EL MAPA-->
 
 
         <div class="col-md-6 d-flex">
           <div class="hero-wrap hero-wrap-2" style="background-image: url(/images/mapa.jpg);"></div>
 
-
         </div>
+        <Quotation/>
 
       </div>
-
-
-
-
     </div>
-
-
-
   </section>
 
 
@@ -98,9 +71,15 @@
 </template>
 
 <script>
-
+import Quotation from "~/components/quotation"
 export default {
-name: "contact",
+  components: {Quotation},
+  head() {
+    return {
+      title: 'HoloSalud | Contacto'
+    }
+  },
+  name: "contact",
 
 }
 </script>

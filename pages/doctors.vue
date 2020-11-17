@@ -152,49 +152,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-5 d-flex">
-            <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
-              <form action="#" class="appointment-form">
-                <h3>Solicite una cotización</h3>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombres">
-                  </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Apellidos">
-                  </div>
-                </div>
-                <div class="">
-
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Celular">
-                  </div>
-                </div>
-                <div class="">
-                  <div class="form-group">
-                    <div class="input-wrap">
-                      <div class="icon"><span class="fa fa-calendar"></span></div>
-                      <input type="text" class="form-control appointment_date" placeholder="Date">
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="input-wrap">
-                      <div class="icon"><span class="fa fa-clock-o"></span></div>
-                      <input type="text" class="form-control appointment_time" placeholder="aca otro campo y mas">
-                    </div>
-                  </div>
-                </div>
-                <div class="">
-                  <div class="form-group">
-                    <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Observaciones"></textarea>
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" value="Enviar" class="btn btn-secondary py-3 px-4">
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
+          <Quotation/>
         </div>
       </div>
     </section>
@@ -203,7 +161,10 @@
 </template>
 
 <script>
+import Quotation from "~/components/quotation"
+
 export default {
+  components: {Quotation},
   name: "doctors",
   head() {
     return {

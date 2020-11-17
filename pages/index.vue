@@ -87,41 +87,9 @@
               </div>
             </div>
           </div>
-          <div class="col-md-5 d-flex">
-            <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
-              <form action="#" class="appointment-form" @submit.prevent="sendMail">
-                <h3>Solicita una cotización</h3>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Empresa" v-model="businessMail.business">
-                  </div>
-                  <div class="form-group">
-                    <input type="number" class="form-control" placeholder="RUC / DNI" v-model="businessMail.ruc">
-                  </div>
-                </div>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Apellidos y Nombres" v-model="businessMail.name">
-                  </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Celular" v-model="businessMail.phone">
-                  </div>
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Correo Electrónico" v-model="businessMail.email">
-                  </div>
-                </div>
 
-                <div class="">
-                  <div class="form-group">
-                    <textarea name="" id="" cols="30" rows="10" class="form-control" v-model="businessMail.consult" placeholder="Escribe tu consulta aquí"></textarea>
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" value="Enviar" class="btn btn-secondary py-3 px-4">
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
+          <Quotation/>
+
         </div>
       </div>
     </section>
@@ -381,12 +349,13 @@
 
     <script lang="ts">
     import Services from "~/components/services.vue";
+    import Quotation from "~/components/quotation.vue"
     import Vue from "vue"
     import axios from "axios"
     const config = require('../config')
 
     export default Vue.extend({
-      components: {Services},
+      components: {Services, Quotation},
       head() {
         return {
           title: 'HoloSalud | Inicio'
