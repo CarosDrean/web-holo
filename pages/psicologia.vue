@@ -17,9 +17,13 @@
           <div class="row justify-content-start pb-3">
             <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
               <h2 class="mb-4"><span>Psicología</span> </h2>
-              <p>La espirometría forzada es una técnica de exploración de la función ventilatoria que mide volúmenes y flujos generados en el curso de una maniobra voluntaria de espiración forzada.
-                Nuestros procedimientos están basados en la GEMO OO6/GUÍA TÉCNICA PARA REALIZAR ESPIROMETRÍA OCUPACIONAL.</p>
-              <p>Contamos con varios Espirómetros Digitales Computarizados de fabricación Inglesa, italiana, etc. Estos modelos de nueva generación son actualmente lo más avanzado en espirometría portátil. Todos ellos presentan mantenimientos periódicos anuales y se calibran diariamente con jeringas standares de calibración: Rudolph volume calibration siringes.</p>
+              <p>la psicología es la ciencia que estudia o investiga los procesos y los estados conscientes, así como sus orígenes y sus efectos.
+
+                Dentro de la psicología son posibles y justificables al menos dos enfoques: el de las ciencias naturales, que busca una explicación causal, y el de las ciencias filosóficas, que busca una explicación de significado y de sentido.
+
+                Gran parte de las investigaciones en psicología se llevan a cabo a través del método de la observación sistemática. En algunos casos, la observación puede ser ocasional.</p>
+              <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
+                Consiste en la evaluación del trabajador en sus diferentes aspectos.</p>
 
               <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
             </div>

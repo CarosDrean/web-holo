@@ -59,10 +59,12 @@
       </div>
     </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
+
       <div class="container d-flex align-items-center">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="fa fa-bars"></span> Menu
         </button>
+
         <div class="collapse navbar-collapse" id="ftco-nav">
           <ul class="navbar-nav m-auto">
             <router-link to="/" v-slot="{ href, route, navigate, isActive, isExactActive }">
@@ -71,8 +73,11 @@
               </li>
             </router-link>
             <router-link to="/about" v-slot="{ href, route, navigate, isActive, isExactActive }">
+
               <li class="nav-item" :class="[isActive && 'router-link-active', isExactActive && 'active']">
                 <a class="nav-link" :href="href" @click="navigate">Conocenos</a>
+                  <span
+                  ></span>
               </li>
             </router-link>
             <router-link to="/services" v-slot="{ href, route, navigate, isActive, isExactActive }">
@@ -106,6 +111,7 @@
               </li>
             </router-link>
 
+
             <!--<li class="nav-item active"><a href="/" class="nav-link">Inicio</a></li>
             <li class="nav-item"><a href="about" class="nav-link">Conócenos</a></li>
             <li class="nav-item"><a href="services" class="nav-link">Servicios</a></li>
@@ -123,8 +129,11 @@
 </template>
 
 <script>
+
 export default {
   name: "Header",
+
+
   methods: ({
     subIsActive(input) {
       const paths = Array.isArray(input) ? input: [input];
