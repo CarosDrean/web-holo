@@ -60,49 +60,17 @@
               </div>
             </div>
           </div>
-          <div class="col-md-5 d-flex">
-            <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
-              <form action="#" class="appointment-form">
-                <h3>Solicita una cotización</h3>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text"   class="form-control" placeholder="Nombre de tu Empresa">
-                  </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Ruc/DNI">
-                  </div>
-                </div>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombres y Apellidos">
-                  </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Celular">
-                  </div>
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Correo Electrónico">
-                  </div>
-                </div>
-
-                <div class="">
-                  <div class="form-group">
-                    <textarea name="" id="" cols="30" rows="10" class="form-control" placeholder="Escribe tu consulta aquí"></textarea>
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" value="Enviar" class="btn btn-secondary py-3 px-4">
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
+          <Quotation/>
         </div>
       </div>
     </section>
   </div>
 </template>
 <script>
+import Quotation from "~/components/quotation"
 export default {
   name: "price",
+  components: {Quotation},
   head() {
     return {
       title: 'HoloSalud | Cotizacion'
