@@ -16,7 +16,7 @@
             <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
               <div class="py-md-5">
                 <div class="row justify-content-start pb-3">
-                  <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
+                  <div class="col-md-12 heading-section p-4 p-lg-5">
                     <h2 class="mb-4"> <span>CARDIOLOGIA</span> </h2>
                     <p class="text-black-50">DR. MANUEL HUAMAN PISCONTI - CMP: 43647</p>
                           <p class="text-black-50">

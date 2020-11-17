@@ -1,10 +1,10 @@
 <template>
   <div>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/cotizacionesfondo.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('/images/cotizacionesfondo.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
-          <div class="col-md-9 ftco-animate pb-5">
+          <div class="col-md-9 pb-5">
             <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Inicio <i class="fa fa-chevron-right"></i></a></span> <span>Cotizaciones <i class="fa fa-chevron-right"></i></span></p>
             <h1 class="mb-3 bread">Cotizaciones</h1>
           </div>
@@ -17,12 +17,12 @@
           <div class="col-md-7 py-5">
             <div class="py-lg-5">
               <div class="row justify-content-center pb-5">
-                <div class="col-md-12 heading-section ftco-animate">
+                <div class="col-md-12 heading-section">
                   <h2 class="mb-3">Protocolos comunes de <span>Holosalud</span></h2>
                 </div>
               </div>
               <div class="row">
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ambulance"></span></div>
                     <div class="media-body pl-md-4">
@@ -31,7 +31,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
@@ -40,7 +40,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
@@ -49,7 +49,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
@@ -62,7 +62,7 @@
           </div>
           <div class="col-md-5 d-flex">
             <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
-              <form action="#" class="appointment-form ftco-animate">
+              <form action="#" class="appointment-form">
                 <h3>Solicita una cotización</h3>
                 <div class="">
                   <div class="form-group">

@@ -4,13 +4,13 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-end" data-scrollax-parent="true">
-          <div class="col-lg-6 ftco-animate">
+          <div class="col-lg-6">
             <div class="mt-5">
-              <h1 class="mb-4"> PRIMER CENTRO MEDICO DE SALUD OCUPACIONAL EN LA REGIÓN ICA</h1>
+              <h1 class="mb-4">PRIMER CENTRO MEDICO DE SALUD OCUPACIONAL EN ICA</h1>
               <p class="mb-4">Nuestro médico ocupacional, el Dr. Manuel Antonio Huaman Pisconti Magister en Salud Ocupacional, es miembro de la Sociedad Peruana de Salud Ocupacional, miembro de la Comisión Internacional en Salud Ocupacional, miembro de la Sociedad Española de Cardiología y Auditor Externo del Ministerio de Trabajo.</p>
               <div class="row">
                 <div class="col-md-7 col-lg-10">
-                  <form action="#" class="appointment-form-intro ftco-animate">
+                  <form action="#" class="appointment-form-intro">
                     <div class="d-flex">
                       <div class="form-group">
                         <div class="form-field">
@@ -43,12 +43,12 @@
           <div class="col-md-7 py-5">
             <div class="py-lg-5">
               <div class="row justify-content-center pb-5">
-                <div class="col-md-12 heading-section ftco-animate">
+                <div class="col-md-12 heading-section">
                   <h2 class="mb-3">Bienvenido a <span>Holosalud</span></h2>
                 </div>
               </div>
               <div class="row">
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ambulance"></span></div>
                     <div class="media-body pl-md-4">
@@ -57,7 +57,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ophthalmologist"></span></div>
                     <div class="media-body pl-md-4">
@@ -66,7 +66,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-flag"></span></div>
                     <div class="media-body pl-md-4">
@@ -75,7 +75,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-md-12 col-lg-6 d-flex align-self-stretch ftco-animate">
+                <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-stethoscope"></span></div>
                     <div class="media-body pl-md-4">
@@ -87,41 +87,9 @@
               </div>
             </div>
           </div>
-          <div class="col-md-5 d-flex">
-            <div class="appointment-wrap p-4 p-lg-5 d-flex align-items-center">
-              <form action="#" class="appointment-form ftco-animate" @submit.prevent="sendMail">
-                <h3>Solicita una cotización</h3>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombre de tu Empresa" v-model="businessMail.business">
-                  </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Ruc/DNI" v-model="businessMail.ruc">
-                  </div>
-                </div>
-                <div class="">
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Nombres y Apellidos" v-model="businessMail.name">
-                  </div>
-                  <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Celular" v-model="businessMail.phone">
-                  </div>
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Correo Electrónico" v-model="businessMail.email">
-                  </div>
-                </div>
 
-                <div class="">
-                  <div class="form-group">
-                    <textarea name="" id="" cols="30" rows="10" class="form-control" v-model="businessMail.consult" placeholder="Escribe tu consulta aquí"></textarea>
-                  </div>
-                  <div class="form-group">
-                    <input type="submit" value="Enviar" class="btn btn-secondary py-3 px-4">
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
+          <Quotation/>
+
         </div>
       </div>
     </section>
@@ -136,7 +104,7 @@
           <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
             <div class="py-md-5">
               <div class="row justify-content-start pb-3">
-                <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
+                <div class="col-md-12 heading-section p-4 p-lg-5">
                   <h2 class="mb-4">Somos <span>HOLOSALUD</span> Especialistas cuidando tu salud</h2>
                   <p>Nuestro objetivo es que puedas tener las mejores condiciones para ingresar a un trabajo, no dudes de los servicios que te ofrecemos.</p>
                   <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
@@ -161,173 +129,22 @@
       </div>
     </section>
 
-    <section class="ftco-section">
-      <div class="container">
-        <div class="row justify-content-center mb-5 pb-2">
-          <div class="col-md-8 text-center heading-section ftco-animate">
-            <h2 class="mb-4"> Servicios de <span>Holosalud</span></h2>
-          </div>
-        </div>
-        <div class="row tabulation mt-4 ftco-animate">
-          <div class="col-md-3">
-            <ul class="nav nav-pills nav-fill d-block w-100">
-              <li class="nav-item text-left">
-                <a class="nav-link active d-flex align-items-centere py-4" data-toggle="tab" href="#services-1"><span class="flaticon-health flaticon mr-3"></span> <span>Salud Ocupacional</span></a>
-              </li>
-              <li class="nav-item text-left">
-                <a class="nav-link py-4 d-flex align-items-center" data-toggle="tab" href="#services-2"><span class="flaticon-health flaticon mr-3"></span> <span>Oftalmología</span></a>
-              </li>
-              <li class="nav-item text-left">
-                <a class="nav-link py-4 d-flex align-items-center" data-toggle="tab" href="#services-3"><span class="flaticon-health flaticon mr-3"></span> <span>Audiometría</span></a>
-              </li>
-              <li class="nav-item text-left">
-                <a class="nav-link py-4 d-flex align-items-center" data-toggle="tab" href="#services-4"><span class="flaticon-health flaticon mr-3"></span> <span>Rayos X</span></a>
-              </li>
-              <li class="nav-item text-left">
-                <a class="nav-link py-4 d-flex align-items-center" data-toggle="tab" href="#services-5"><span class="flaticon-health flaticon mr-3"></span> <span>Espirometría</span></a>
-              </li>
-              <li class="nav-item text-left">
-                <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-6"><span class="flaticon-health flaticon mr-3"></span> <span>Psicología</span></a>
-              </li>
-              <li class="nav-item text-left">
-                <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-7"><span class="flaticon-health flaticon mr-3"></span> <span>Laboratorio</span></a>
-              </li>
-            </ul>
-          </div>
-
-          <div class="col-md-9">
-            <div class="tab-content pt-4 pt-md-0 pl-md-3">
-              <div class="tab-pane container p-0 active" id="services-1">
-                <div class="row">
-                  <div class="col-md-5 img"  style="background-image: url(/images/so.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Salud Ocupacional</a></h3>
-                    <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar....</p>
-                    <p><a href="saludocupacional" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane container p-0 fade" id="services-2">
-                <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(/images/dept-2.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Oftalmología</a></h3>
-                    <p> La oftalmología es la especialidad médica encargada del estudio y tratamiento de las enfermedades del ojo y estructuras perioculares. La visión es uno de los sentidos más preciados por ello es imprescindible garantizar un buen cuidado, tanto de forma preventiva en situaciones de salud mediante exámenes rutinarios como en situaciones de enfermedad.
-
-                      Además de las múltiples patologías oculares, el ojo puede verse afectado por numerosas patologías generales del organismo y ser el primer órgano afectado. El conocimiento de los síntomas desencadenados es fundamental en ocasiones para llegar a un diagnóstico adecuado de estas enfermedades sistémicas o generales.
-
-                      Durante los últimos años la oftalmología... </p>
-
-                    <p><a href="oftalmologia" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane container p-0 fade" id="services-3">
-                <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(/images/audiometria3.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Audiometría</a></h3>
-                    <p>Este examen evalúa su capacidad para escuchar sonidos. Los sonidos varían de acuerdo con el volumen o fuerza (intensidad) y con la velocidad de vibración de las ondas sonoras (tono).
-
-                      La audición se produce cuando las ondas sonoras estimulan los nervios del oído interno. El sonido luego viaja a lo largo de las rutas nerviosas hasta el cerebro.
-
-                      Las ondas sonoras pueden viajar hasta el oído interno a través del conducto auditivo externo, el tímpano y los huesos del oído medio (conducción del aire). También pueden pasar a través de los huesos que se encuentran alrededor y detrás del oído (conducción ósea).
-
-                      La INTENSIDAD del sonido se mide en decibeles (dB):
-
-                      Un susurro es aproximadamente 20 dB.
-                      La música fuerte (algunos conciertos) es alrededor....</p>
-                    <p><a href="audiometria" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane container p-0 fade" id="services-4">
-                <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(/images/rayosxxx.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Rayos X</a></h3>
-                    <p>Son una forma de radiación electromagnética, tal como la luz visible.
-
-                      Una máquina de rayos x envía partículas de estos rayos a través del cuerpo. Las imágenes se registran en una computadora o en una película.
-
-                      Las estructuras que son densas, como los huesos, bloquearán la mayoría de las partículas de rayos x y aparecerán de color blanco.
-                      El metal y los medios de contraste (tintes especiales utilizados para resaltar áreas del cuerpo) también aparecerán de color blanco.
-                      Las estructuras que contienen aire se verán negras, y los músculos, la grasa y los líquidos aparecerán como sombras de color gris.</p>
-                    <p>El Servicio de Oftalmología cuenta con modernos equipos totalmente computarizados para una Evaluación de Calidad, entre los que podemos... </p>
-
-                    <p><a href="rayosx" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane container p-0 fade" id="services-5">
-                <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(/images/espirometria.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Espirometría</a></h3>
-                    <p>La respiración es un complejo mecanismo que requiere de tres procesos fundamentales: ventilación pulmonar, difusión de los gases, transporte de los mismos desde y hasta la célula. Además para un correcto funcionamiento precisa de una regulación neurológica.
-
-                      La espirometría es una prueba diagnóstica que nos ayuda al conocimiento de la ventilación pulmonar. Se engloba dentro de las llamadas pruebas de función pulmonar. En ella se miden los flujos y volúmenes respiratorios útiles para el diagnóstico y seguimiento de algunas patologías respiratorias como la EPOC o el asma. icha espirometría puede ser simple o forzada.
-                      Aunque el uso de la espirometría está muy extendido, diferentes estudios han puesto de manifiesto la insuficiente utilización de la espirometría...
-                    </p>
-
-                    <p><a href="espirometria" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p></div>
-                </div>
-              </div>
-              <div class="tab-pane container p-0 fade" id="services-6">
-                <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(/images/psicologia.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Psicología</a></h3>
-                    <p>la psicología es la ciencia que estudia o investiga los procesos y los estados conscientes, así como sus orígenes y sus efectos.
-
-                      Dentro de la psicología son posibles y justificables al menos dos enfoques: el de las ciencias naturales, que busca una explicación causal, y el de las ciencias filosóficas, que busca una explicación de significado y de sentido.
-
-                      Gran parte de las investigaciones en psicología se llevan a cabo a través del método de la observación sistemática. En algunos casos, la observación puede ser ocasional.</p>
-                    <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
-                      Consiste en la evaluación del trabajador en sus diferentes aspectos...</p>
-                    <p><a href="psicologia" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane container p-0 fade" id="services-7">
-                <div class="row">
-                  <div class="col-md-5 img" style="background-image: url(/images/lab2.jpg);"></div>
-                  <div class="col-md-7 text pl-md-4">
-                    <h3><a href="#">Laboratorio</a></h3>
-                    <p>En área del laboratorio contamos con equipos avanzados y personal capacitado con amplia experiencia profesional brindando así resultados en el menor tiempo posible, con la mayor precisión y exactitud que serán de gran apoyo para su diagnostico, aplicando las normas estandarizadas con todas las medidas de bioseguridad para el cuidado de usted y del personal.</p>
-                    <p>1. Hematología </p>
-                    <ul>
-                      <li><span class="fa fa-check"></span>Microscopio Greetmed modelo GT116-201 </li>
-                      <li><span class="fa fa-check"></span>Micro centrifuga K modelo KHT-410E Bañ...</li>
-                    </ul>
-
-                    <p><a href="laboratorio" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <Services/>
 
     <section class="ftco-section bg-light">
       <div class="container-fluid px-5">
         <div class="row justify-content-center mb-5 pb-2">
-          <div class="col-md-8 text-center heading-section ftco-animate">
+          <div class="col-md-8 text-center heading-section">
             <h2 class="mb-4">Nuestros Doctores Calificados</h2>
           </div>
         </div>
         <div class="row">
-          <div class="col-md-6 col-lg-6 ftco-animate">
+          <div class="col-md-6">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
                 <div class="img align-self-stretch" style="background-image: url(/images/drhuaman.png);"></div>
               </div>
-              <div class="text text-center">
+              <div class="text text-center" style="position: static !important;">
                 <h3 class="mb-2">Dr. Huaman Pisconti Manuel</h3>
                 <span class="position mb-2">Médico Ocupacional</span>
                 <div class="faded">
@@ -335,28 +152,28 @@
 
                   </p>
                   <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
+                    <li><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                    <li><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                    <li><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
                   </ul>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-6 ftco-animate">
+          <div class="col-md-6 col-lg-6">
             <div class="staff">
               <div class="img-wrap d-flex align-items-stretch">
                 <div class="img align-self-stretch" style="background-image: url(/images/drhuaman.png);"></div>
               </div>
-              <div class="text text-center">
+              <div class="text text-center" style="position: static !important;">
                 <h3 class="mb-2">Dr. Manuel Huaman Pisconti</h3>
                 <span class="position mb-2">Cardiólogo</span>
                 <div class="faded">
                   <p>Médico Cardiólogo del Hospital Regional de Ica, Especialista en Cardiología egresado del Hospital Nacional Edgardo Rebagliatti Martins</p>
                   <ul class="ftco-social text-center">
-                    <li class="ftco-animate"><a href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
+                    <li><a target="_blank" href="https://twitter.com/HOLOSALUD_CARD" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
+                    <li><a target="_blank" href="https://www.facebook.com/cardioholosalud" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
+                    <li><a target="_blank" href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
                   </ul>
                 </div>
               </div>
@@ -411,38 +228,46 @@
        <div class="overlay"></div>
        <div class="container">
          <div class="row">
-           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-             <div class="block-18 p-4">
-               <div class="text">
-                 <strong class="number" data-number="7">0</strong>
-                 <span>Años de experiencia</span>
+           <transition name="ftco-animate">
+             <div class="col-md-3 d-flex justify-content-center counter-wrap">
+               <div class="block-18 p-4">
+                 <div class="text">
+                   <strong class="number" data-number="7">0</strong>
+                   <span>Años de experiencia</span>
+                 </div>
                </div>
              </div>
-           </div>
-           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-             <div class="block-18 p-4">
-               <div class="text">
-                 <strong class="number" data-number="40000">0</strong>
-                 <span>Pacientes atendidos</span>
+           </transition>
+           <transition name="ftco-animate">
+             <div class="col-md-3 d-flex justify-content-center counter-wrap">
+               <div class="block-18 p-4">
+                 <div class="text">
+                   <strong class="number" data-number="40000">0</strong>
+                   <span>Pacientes atendidos</span>
+                 </div>
                </div>
              </div>
-           </div>
-           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-             <div class="block-18 p-4">
-               <div class="text">
-                 <strong class="number" data-number="20">0</strong>
-                 <span>Profesionales</span>
+           </transition>
+           <transition name="ftco-animate">
+             <div class="col-md-3 d-flex justify-content-center counter-wrap">
+               <div class="block-18 p-4">
+                 <div class="text">
+                   <strong class="number" data-number="20">0</strong>
+                   <span>Profesionales</span>
+                 </div>
                </div>
              </div>
-           </div>
-           <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
-             <div class="block-18 p-4">
-               <div class="text">
-                 <strong class="number" data-number="100">0</strong>
-                 <span>Personal eficiente </span>
+           </transition>
+           <transition name="ftco-animate">
+             <div class="col-md-3 d-flex justify-content-center counter-wrap">
+               <div class="block-18 p-4">
+                 <div class="text">
+                   <strong class="number" data-number="100">0</strong>
+                   <span>Personal eficiente </span>
+                 </div>
                </div>
              </div>
-           </div>
+           </transition>
          </div>
        </div>
      </section>
@@ -523,11 +348,14 @@
     </template>
 
     <script lang="ts">
+    import Services from "~/components/services.vue";
+    import Quotation from "~/components/quotation.vue"
     import Vue from "vue"
     import axios from "axios"
     const config = require('../config')
 
     export default Vue.extend({
+      components: {Services, Quotation},
       head() {
         return {
           title: 'HoloSalud | Inicio'
@@ -548,7 +376,7 @@
       methods: {
         async sendMail() {
           let data = this.$data.businessMail
-          const token = await this.login()
+          const token = await this.loginApiMail()
 
           const headers = {
             'Content-Type': 'application/json',
@@ -562,7 +390,7 @@
           }
 
         },
-        async login(): Promise<string>{
+        async loginApiMail(): Promise<string>{
           let forLogin = {
             secret: config.SECRET_TOKEN
           }

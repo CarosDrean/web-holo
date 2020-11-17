@@ -8,9 +8,9 @@
               <h2 class="ftco-heading-2 logo d-flex align-items-center"><a href="#"><span class="flaticon-health flaticon"></span><span>Holosalud</span></a></h2>
               <p>El primer centro médico de Salud Ocupacional en la región Ica.</p>
               <ul class="ftco-footer-social list-unstyled mt-4">
-                <li><a href="https://twitter.com/HOLOSALUD_CARD"><span class="fa fa-twitter"></span></a></li>
-                <li><a href="https://www.facebook.com/Holosalud"><span class="fa fa-facebook"></span></a></li>
-                <li><a href="https://instagram.com/holosaludsac?igshid=i4g41fixxj7b"><span class="fa fa-instagram"></span></a></li>
+                <li><a target="_blank" href="https://twitter.com/HOLOSALUD_CARD"><span class="fa fa-twitter"></span></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/Holosalud"><span class="fa fa-facebook"></span></a></li>
+                <li><a target="_blank" href="https://instagram.com/holosaludsac?igshid=i4g41fixxj7b"><span class="fa fa-instagram"></span></a></li>
               </ul>
             </div>
           </div>
