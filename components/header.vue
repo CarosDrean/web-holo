@@ -20,7 +20,7 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-6 col-lg-7 d-flex topper align-items-center text-lg-right justify-content-end">
-            <p class="mb-0 register-link"><a href="price" class="btn btn-primary">Solicita tu cotización</a></p>
+            <p class="mb-0 register-link"><a href="https://resultados.holosalud.org" target="_blank" class="btn btn-primary">Inicar Sessión</a></p>
           </div>
         </div>
       </div>
