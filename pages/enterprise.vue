@@ -78,9 +78,11 @@ export default {
     }
   },
   created() {
-    let galleryJs = document.createElement('script')
-    galleryJs.setAttribute('src', '/js/main.js')
-    document.head.appendChild(galleryJs)
+    if(process.client){
+      let galleryJs = document.createElement('script')
+      galleryJs.setAttribute('src', '/js/main.js')
+      document.head.appendChild(galleryJs)
+    }
   },
 }
 </script>
