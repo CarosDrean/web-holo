@@ -20,7 +20,7 @@
             </div>
           </div>
           <div class="col-sm-12 col-md-6 col-lg-7 d-flex topper align-items-center text-lg-right justify-content-end">
-            <p class="mb-0 register-link"><a target="_blank" href="https://resultados.holosalud.org/" class="btn btn-primary">Mi Clínica Online</a></p>
+            <p class="mb-0 register-link"><a target="_blank" href="https://resultados.holosalud.org/" class="btn btn-primary">Acceso Online</a></p>
           </div>
         </div>
       </div>
