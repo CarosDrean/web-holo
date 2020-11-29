@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/lab2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('/images/lab2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
@@ -15,7 +15,7 @@
       <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
         <div class="py-md-5">
           <div class="row justify-content-start pb-3">
-            <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
+            <div class="col-md-12 heading-section p-4 p-lg-5">
               <h2 class="mb-4">Laboratorio <span>Clínico</span> </h2>
               <p>En área del laboratorio contamos con equipos avanzados y personal capacitado con amplia experiencia profesional brindando así resultados en el menor tiempo posible, con la mayor precisión y exactitud que serán de gran apoyo para su diagnostico, aplicando las normas estandarizadas con todas las medidas de bioseguridad para el cuidado de usted y del personal.</p>
               <p>1. Hematología </p>
@@ -35,7 +35,7 @@
                 <li><span class="fa fa-check"></span>Factor Reumatoide</li>
                 <li><span class="fa fa-check"></span>RPR/VDRL</li>
               </ul>
-              <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
+              <p><NuxtLink to="/price" class="btn btn-primary py-3 px-4">Solicita tu cotización</NuxtLink> <NuxtLink to="/contact" class="btn btn-secondary py-3 px-4">Contacténos</NuxtLink></p>
             </div>
           </div>
         </div>

@@ -31,10 +31,10 @@
         <div class="row d-flex align-items-start align-items-center px-3 px-md-0">
 
           <div class="col-md-4 d-flex mb-2 mb-md-0">
-            <a class="navbar-brand d-flex align-items-center" href="/">
+            <NuxtLink class="navbar-brand d-flex align-items-center" to="/">
               <img src="/images/logo-2-png-sinfondo.png" height="50" width="50" />
               <span> Holosalud</span>
-            </a>
+            </NuxtLink>
           </div>
 
           <div class="col-md-4 d-flex topper mb-md-0 mb-2 align-items-center">

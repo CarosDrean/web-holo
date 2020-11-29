@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/saludocupacional.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('/images/saludocupacional.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
@@ -15,7 +15,7 @@
           <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
             <div class="py-md-5">
               <div class="row justify-content-start pb-3">
-                <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
+                <div class="col-md-12 heading-section p-4 p-lg-5">
                   <h2 class="mb-4">Salud <span>Ocupacional</span> </h2>
                   <p>El servicio de Salud Ocupacional contribuye a la identificación y al análisis de las condiciones que, dentro del ambiente de trabajo, pueden afectar a corto, mediano o largo plazo la salud de los trabajadores, ofreciendo estrategias de intervención y medidas preventivas para ejercer un mayor control sobre ellas. Asimismo, un adecuado Sistema de Gestión de Seguridad y Salud Ocupacional permite evitar la aparición de enfermedades ocupacionales y disminuir los índices de accidentabilidad, facilitando así un desempeño laboral óptimo a la vez que garantiza la salud y el bienestar de los trabajadores. Contamos con una infraestructura de primer nivel, un staff de profesionales altamente calificados y todos los servicios en un solo lugar.</p>
                   <p>Holosalud actualmente en el 2020 se encuentra acreditado por la Diresa según constancia de acreditación: 004-2020-GORE·ICA·DRSA-DESAJSSO</p>
@@ -29,7 +29,7 @@
                       <p>Días previos al cese laboral. Válidos no más de 3 meses. Objetivo: Detectar enfermedades ocupacionales y secuelas de accidentes de trabajo. Prestar atención a las enfermedades indemnizables por ley en nuestro país. Guarda relación directa con el examen de pre ingreso (pre existencias).</p></li>
 
                   </ul>
-                  <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
+                  <p><NuxtLink to="/price" class="btn btn-primary py-3 px-4">Solicita tu cotización</NuxtLink> <NuxtLink to="/contact" class="btn btn-secondary py-3 px-4">Contacténos</NuxtLink></p>
                 </div>
               </div>
             </div>

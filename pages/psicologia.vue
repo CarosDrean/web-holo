@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/psicologia2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('/images/psicologia2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-start">
@@ -15,7 +15,7 @@
       <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
         <div class="py-md-5">
           <div class="row justify-content-start pb-3">
-            <div class="col-md-12 heading-section ftco-animate p-4 p-lg-5">
+            <div class="col-md-12 heading-section p-4 p-lg-5">
               <h2 class="mb-4"><span>Psicología</span> </h2>
               <p>la psicología es la ciencia que estudia o investiga los procesos y los estados conscientes, así como sus orígenes y sus efectos.
 
@@ -25,7 +25,7 @@
               <p>Nos basamos en la GEMO OO2 – GUÍA DE PRÁCTICA CLÍNICA PARA LA EVALUACIÓN PSICOLÓGICA OCUPACIONAL.
                 Consiste en la evaluación del trabajador en sus diferentes aspectos.</p>
 
-              <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
+              <p><NuxtLink to="/price" class="btn btn-primary py-3 px-4">Solicita tu cotización</NuxtLink> <NuxtLink to="/contact" class="btn btn-secondary py-3 px-4">Contacténos</NuxtLink></p>
             </div>
           </div>
         </div>
