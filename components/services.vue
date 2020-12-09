@@ -25,10 +25,24 @@
               <a class="nav-link py-4 d-flex align-items-center" data-toggle="tab" href="#services-5"><span class="flaticon-health flaticon mr-3"></span> <span>Espirometría</span></a>
             </li>
             <li class="nav-item text-left">
-              <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-6"><span class="flaticon-health flaticon mr-3"></span> <span>Psicología</span></a>
+              <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-6">
+                <span class="flaticon-health flaticon mr-3"></span> <span>Psicología</span>
+              </a>
             </li>
             <li class="nav-item text-left">
-              <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-7"><span class="flaticon-health flaticon mr-3"></span> <span>Laboratorio</span></a>
+              <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-7">
+                <span class="flaticon-health flaticon mr-3"></span> <span>Laboratorio</span>
+              </a>
+            </li>
+            <li class="nav-item text-left">
+              <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-8">
+                <span class="flaticon-health flaticon mr-3"></span> <span>Asesoría Legal en Seguridad y Salud en el Trabajo</span>
+              </a>
+            </li>
+            <li class="nav-item text-left">
+              <a class="nav-link d-flex align-items-centerm py-4" data-toggle="tab" href="#services-9">
+                <span class="flaticon-health flaticon mr-3"></span> <span>Capacitaciones y Charlas</span>
+              </a>
             </li>
           </ul>
         </div>
@@ -130,6 +144,7 @@
                 </div>
               </div>
             </div>
+
             <div class="tab-pane container p-0 fade" id="services-7">
               <div class="row">
                 <div class="col-md-5 img" style="background-image: url(/images/lab2.jpg);"></div>
@@ -146,6 +161,36 @@
                 </div>
               </div>
             </div>
+            <div class="tab-pane container p-0 fade" id="services-8">
+              <div class="row">
+                <div class="col-md-5 img" style="background-image: url(/images/asesorialegal.jpg);"></div>
+                <div class="col-md-7 text pl-md-4">
+                  <h3><a href="#">Asesoría Legal en Seguridad y Salud en el Trabajo</a></h3>
+                  <p>Nuestro servicio de implementación de Asesoría y Consultoría SST está especialmente diseñado para adecuarse a las características y necesidades de cada cliente, combinando uno o más de nuestros servicios para la satisfactoria implementación y certificación en cumplimiento de la normativa legal, así como para el mantenimiento y mejora de su Sistema de Gestión.</p>
+                  <p>Pasos para implementar un SGSST eficientemente </p>
+                  <ul>
+                    <li><span class="fa fa-check"></span>Nos ponemos en contacto según su requerimiento. </li>
+                    <li><span class="fa fa-check"></span>Se fija fecha para una evaluación inicial.</li>
+                  </ul>
+
+                  <p><a href="advisory" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
+                </div>
+              </div>
+            </div>
+
+            <div class="tab-pane container p-0 fade" id="services-9">
+              <div class="row">
+                <div class="col-md-5 img" style="background-image: url(/images/charlas.jpg);"></div>
+                <div class="col-md-7 text pl-md-4">
+                  <h3><a href="#">Capacitaciones y Charlas</a></h3>
+                  <p>La capacitación se define como el conjunto de actividades didácticas, orientadas a ampliar los conocimientos, habilidades y aptitudes del personal que labora en una empresa. La capacitación les permite a los trabajadores poder tener un mejor desempeño en sus actuales y futuros cargos, adaptándose a las exigencias cambiantes del entorno. Esta es vista como un proceso educativo a corto plazo, emplea técnicas especializadas y planificadas por medio del cual el personal de la empresa obtendrá conocimientos y habilidades necesarias para incrementar su eficacia en el logro de los objetivos que haya planificado la organización para la cual se desempeña.</p>
+                  <p>Las Charlas y las Capacitaciones presenciales / Virtuales  son actividades de educación laboral que preparan al colaborador para desarrollar un cargo o una función con mayor eficiencia.</p>
+
+                  <p><a href="talks" class="btn btn-secondary btn-outline-secondary py-2 px-3">Leer más</a></p>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>
