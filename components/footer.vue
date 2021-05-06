@@ -63,6 +63,7 @@
                    <li><span class="fa fa-map-marker mr-3"></span><span class="text">Urbanización Puente Blanco Mz. F Lote 25-26 4ta Etapa </span></li>
                    <li><a target="_blank" href="https://api.whatsapp.com/send?phone=51943991985&text=Hola%20CL%C3%8DNICA%20HOLOSALUD%20quisiera%20informacion%0Ahttps%3A%2F%2Fwww.holosalud.pe%2Fweb"><span class="fa fa-phone mr-3"></span><span class="text">943991985</span></a></li>
                    <li><a target="_blank" href="https://mail.google.com/"><span class="fa fa-paper-plane mr-3"></span><span class="text">saludocupacional@holosalud.pe</span></a></li>
+                   <li><NuxtLink to="/politicas"><span class="fa fa-chevron-right mr-2"></span><span class="text">Política de Privacidad</span></NuxtLink></li>
                  </ul>
                </div>
              </div>
