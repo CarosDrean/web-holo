@@ -53,7 +53,7 @@
                             Por lo cual, La Clínica Holosalud ha tomado los niveles de seguridad y de protección de datos personales legalmente requeridos.
                           </p>
                           <h2 class="mb-4">Actualizaciones</h2>
-                          <p>La reciente Política ha sido actualizada el 06 de Mayo del 2021 y podrá ser reformada por la Clínica Holosalud. Cualquier cambio o modificación será publicado en nuestro portal web: <a href="www.holosalud.org">www.holosalud.org </a></p>
+                          <p>La reciente Política ha sido actualizada el 06 de Mayo del 2021 y podrá ser reformada por la Clínica Holosalud. Cualquier cambio o modificación será publicado en nuestro portal web: <a href="/">www.holosalud.org </a></p>
 
 
 
