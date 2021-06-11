@@ -47,8 +47,18 @@
             <div class="icon d-flex align-items-center justify-content-center">
               <span class="flaticon-world-wide-web-on-grid"></span>
             </div>
-            <h3 class="mb-4">Website</h3>
-            <p><a href="https://www.holosalud.pe/">www.holosalud.pe</a></p>
+            <h3 class="mb-auto">Redes Sociales</h3>
+            <div class="col-md-auto">
+              <div id="fb-root"></div>
+              <script async diferir crossorigin="anonymous"
+                      src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v11.0" nonce="Jl7teyep"></script>
+              <div class="fb-page" data-href="https://www.facebook.com/Holosalud" data-tabs="timeline" data-width="500"
+                   data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                   data-show-facepile="true">
+                <blockquote cite="https://www.facebook.com/Holosalud " class=" fb-xfbml-parse-ignore "><a
+                  href="https://www.facebook.com/Holosalud"> HoloSalud </a></blockquote>
+              </div>
+            </div>
           </div>
         </div>
       </div>

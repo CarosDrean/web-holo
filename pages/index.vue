@@ -48,6 +48,7 @@
                 </div>
               </div>
               <div class="row">
+
                 <div class="col-md-12 col-lg-6 d-flex align-self-stretch">
                   <div class="media block-6 services d-flex">
                     <div class="icon justify-content-center align-items-center d-flex"><span class="flaticon-ambulance"></span></div>
@@ -88,6 +89,7 @@
             </div>
           </div>
 
+
           <Quotation/>
 
         </div>
@@ -95,23 +97,48 @@
     </section>
 
     <section class="ftco-counter img ftco-section ftco-no-pt ftco-no-pb" id="about-section">
+
       <div class="container">
+
         <div class="row d-flex">
+
           <div class="col-md-6 col-lg-5 d-flex">
+
             <div class="img w-100 d-flex align-self-stretch align-items-center" style="background-image:url(/images/about.jpg);">
             </div>
           </div>
-          <div class="col-md-6 col-lg-7 pl-lg-5 py-md-5">
-            <div class="py-md-5">
+          <div class="col-md-6 col-lg-7 pl-lg-5 py-md-2">
+            <div class="py-md-2">
               <div class="row justify-content-start pb-3">
                 <div class="col-md-12 heading-section p-4 p-lg-5">
                   <h2 class="mb-4">Somos <span>HOLOSALUD</span> Especialistas cuidando tu salud</h2>
                   <p>Nuestro objetivo es que puedas tener las mejores condiciones para ingresar a un trabajo, no dudes de los servicios que te ofrecemos.</p>
                   <p><a href="price" class="btn btn-primary py-3 px-4">Solicita tu cotización</a> <a href="contact" class="btn btn-secondary py-3 px-4">Contacténos</a></p>
                 </div>
+
+                <div class="col-lg">
+                  <div class="ftco-footer-widget heading-section p-4 p-lg-5">
+                    <h2 class="ftco-heading-2">Redes Sociales</h2>
+                    <div class="col-md-auto">
+                      <div id="fb-root"></div>
+                      <script async diferir crossorigin="anonymous"
+                              src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v11.0" nonce="Jl7teyep"></script>
+                      <div class="fb-page" data-href="https://www.facebook.com/Holosalud" data-tabs="timeline" data-width="450"
+                           data-height="450" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                           data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/Holosalud " class=" fb-xfbml-parse-ignore "><a
+                          href="https://www.facebook.com/Holosalud"> HoloSalud </a></blockquote>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
               </div>
+
             </div>
+
           </div>
+
         </div>
       </div>
     </section>

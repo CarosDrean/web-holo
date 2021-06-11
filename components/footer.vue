@@ -30,19 +30,6 @@
             </div>
           </div>
 
-          <div class="col-lg col-md-6">
-            <div class="ftco-footer-widget">
-              <h2 class="ftco-heading-2">Links</h2>
-              <ul class="list-unstyled">
-                <li><NuxtLink to="/"><span class="fa fa-chevron-right mr-2"></span>Inicio</NuxtLink></li>
-                <li><NuxtLink to="/about"><span class="fa fa-chevron-right mr-2"></span>Conocenos</NuxtLink></li>
-                <li><NuxtLink to="/services"><span class="fa fa-chevron-right mr-2"></span>Servicios</NuxtLink></li>
-                <li><NuxtLink to="/doctors"><span class="fa fa-chevron-right mr-2"></span>Doctores</NuxtLink></li>
-                <li><NuxtLink to="/price"><span class="fa fa-chevron-right mr-2"></span>Cotizaciones</NuxtLink></li>
-                <li><NuxtLink to="/contact"><span class="fa fa-chevron-right mr-2"></span>Contáctenos</NuxtLink></li>
-               </ul>
-             </div>
-           </div>
 
            <div class="col-lg col-md-6">
              <div class="ftco-footer-widget">
@@ -68,6 +55,23 @@
                </div>
              </div>
            </div>
+
+          <div class="col-lg col-md-auto">
+            <div class="ftco-footer-widget">
+              <h2 class="ftco-heading-2">Ultimas Noticias</h2>
+              <div class="col-md-auto">
+                <div id="fb-root"></div>
+                <script async diferir crossorigin="anonymous"
+                        src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v11.0" nonce="Jl7teyep"></script>
+                <div class="fb-page" data-href="https://www.facebook.com/Holosalud" data-tabs="timeline" data-width="300"
+                     data-height="270" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                     data-show-facepile="true">
+                  <blockquote cite="https://www.facebook.com/Holosalud " class=" fb-xfbml-parse-ignore "><a
+                    href="https://www.facebook.com/Holosalud"> HoloSalud </a></blockquote>
+                </div>
+              </div>
+            </div>
+          </div>
          </div>
        </div>
        <div class="container-fluid bg-primary py-5">
