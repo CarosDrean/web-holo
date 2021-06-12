@@ -58,7 +58,7 @@
 
           <div class="col-lg col-md-auto">
             <div class="ftco-footer-widget">
-              <h2 class="ftco-heading-2">Ultimas Noticias</h2>
+              <h2 class="ftco-heading-2">Últimas Noticias</h2>
               <div class="col-md-auto">
                 <div id="fb-root"></div>
                 <script async diferir crossorigin="anonymous"
